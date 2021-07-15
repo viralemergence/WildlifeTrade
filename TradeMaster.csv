@@ -1,0 +1,1121 @@
+Order,Species Name,Trade,Highly traded,Category,Total virus richness,Non zoonotic virus richness,Zoono virus richness
+CETARTIODACTYLA,Alces alces,Prod,,Domestic,7,4,3
+CETARTIODACTYLA,Axis axis,Prod,,Domestic,3,2,1
+CETARTIODACTYLA,Bos frontalis,,,Domestic,2,0,2
+CETARTIODACTYLA,Bos grunniens,,,Domestic,1,0,1
+CETARTIODACTYLA,Bos javanicus,,,Domestic,2,2,0
+CETARTIODACTYLA,Bos taurus,,,Domestic,97,46,51
+CETARTIODACTYLA,Boselaphus tragocamelus,"Pet, Prod",Y,Domestic,1,0,1
+CETARTIODACTYLA,Bubalus bubalis,,,Domestic,22,10,12
+CETARTIODACTYLA,Camelus bactrianus,,,Domestic,2,0,2
+CETARTIODACTYLA,Camelus dromedarius,,,Domestic,27,7,20
+CARNIVORA,Canis familiaris,,,Domestic,27,5,22
+CARNIVORA,Canis lupus familiaris,,,Domestic,26,4,22
+CETARTIODACTYLA,Capra hircus,,,Domestic,34,19,15
+RODENTIA,Cavia porcellus,,,Domestic,9,7,2
+CETARTIODACTYLA,Cervus elaphus,"Pet, Prod",,Domestic,16,11,5
+CETARTIODACTYLA,Cervus nippon,Prod,,Domestic,5,3,2
+RODENTIA,Cricetomys gambianus,Pet,,Domestic,6,3,3
+CETARTIODACTYLA,Dama dama,"Pet, Prod",,Domestic,9,7,2
+PROBOSCIDEA,Elephas maximus,"Pet, Prod",Y,Domestic,6,2,4
+CETARTIODACTYLA,Equus africanus,,,Domestic,6,0,6
+CETARTIODACTYLA,Equus asinus,,,Domestic,14,7,7
+CETARTIODACTYLA,Equus caballus,,,Domestic,59,27,32
+CETARTIODACTYLA,Equus ferus,,,Domestic,29,1,28
+CARNIVORA,Felis catus,,,Domestic,28,7,21
+RODENTIA,Hydrochoerus hydrochaeris,Prod,,Domestic,2,0,2
+CETARTIODACTYLA,Lama glama,,,Domestic,9,0,9
+CETARTIODACTYLA,Lama pacos,,,Domestic,3,1,2
+RODENTIA,Mus musculus,,,Domestic,54,32,22
+CARNIVORA,Neovison vison,Prod,,Domestic,7,3,4
+RODENTIA,Ondatra zibethicus,Prod,,Domestic,5,2,3
+LAGOMORPHA,Oryctolagus cuniculus,Prod,,Domestic,10,6,4
+CETARTIODACTYLA,Ovis aries,,Y,Domestic,69,29,40
+CETARTIODACTYLA,Rangifer tarandus,Prod,,Domestic,13,5,8
+RODENTIA,Rattus rattus,,,Domestic,68,48,20
+CETARTIODACTYLA,Vicugna pacos,,,Domestic,8,0,8
+CETARTIODACTYLA,Vicugna vicugna,,Y,Domestic,2,2,0
+Cetartiodactyla,Bos taurus indicus,,,Domestic,1,1,0
+RODENTIA,Abrothrix longipilis,,,Nontraded,1,0,1
+RODENTIA,Abrothrix olivaceus,,,Nontraded,1,0,1
+RODENTIA,Abrothrix sanborni,,,Nontraded,1,0,1
+RODENTIA,Acomys cahirinus,,,Nontraded,1,0,1
+RODENTIA,Acomys dimidiatus,,,Nontraded,1,0,1
+RODENTIA,Aethomys kaiseri,,,Nontraded,2,1,1
+RODENTIA,Aethomys namaquensis,,,Nontraded,2,0,2
+RODENTIA,Akodon azarae,,,Nontraded,5,1,4
+RODENTIA,Akodon cursor,,,Nontraded,3,2,1
+RODENTIA,Akodon montensis,,,Nontraded,2,0,2
+RODENTIA,Akodon obscurus,,,Nontraded,2,0,2
+RODENTIA,Akodon paranaensis,,,Nontraded,1,0,1
+RODENTIA,Akodon simulator,,,Nontraded,2,1,1
+RODENTIA,Akodon varius,,,Nontraded,1,0,1
+CETARTIODACTYLA,Alces americanus,,,Nontraded,1,0,1
+RODENTIA,Allactaga williamsi,,,Nontraded,1,0,1
+PRIMATES,Alouatta seniculus,,,Nontraded,3,1,2
+RODENTIA,Ammospermophilus nelsoni,,,Nontraded,3,0,3
+CHIROPTERA,Anoura caudifer,,,Nontraded,9,8,1
+CHIROPTERA,Anoura geoffroyi,,,Nontraded,9,2,7
+CHIROPTERA,Antrozous pallidus,,,Nontraded,1,0,1
+RODENTIA,Apodemus agrarius,,,Nontraded,8,2,6
+RODENTIA,Apodemus argenteus,,,Nontraded,1,1,0
+RODENTIA,Apodemus chevrieri,,,Nontraded,1,0,1
+RODENTIA,Apodemus flavicollis,,,Nontraded,12,4,8
+RODENTIA,Apodemus latronum,,,Nontraded,1,1,0
+RODENTIA,Apodemus mystacinus,,,Nontraded,1,0,1
+RODENTIA,Apodemus pallipes,,,Nontraded,1,0,1
+RODENTIA,Apodemus peninsulae,,,Nontraded,2,0,2
+RODENTIA,Apodemus speciosus,,,Nontraded,1,1,0
+RODENTIA,Apodemus sylvaticus,,,Nontraded,25,10,15
+RODENTIA,Apodemus uralensis,,,Nontraded,1,0,1
+CHIROPTERA,Artibeus fimbriatus,,,Nontraded,1,0,1
+CHIROPTERA,Artibeus jamaicensis,,,Nontraded,21,8,13
+CHIROPTERA,Artibeus lituratus,,,Nontraded,25,9,16
+CHIROPTERA,Artibeus obscurus,,,Nontraded,6,6,0
+CHIROPTERA,Artibeus planirostris,,,Nontraded,3,1,2
+RODENTIA,Arvicanthis neumanni,,,Nontraded,1,1,0
+RODENTIA,Arvicanthis niloticus,,,Nontraded,15,9,6
+RODENTIA,Arvicola amphibius,,,Nontraded,3,1,2
+RODENTIA,Arvicola scherman,,,Nontraded,2,0,2
+CHIROPTERA,Aselliscus stoliczkanus,,,Nontraded,12,11,1
+EULIPOTYPHLA,Atelerix albiventris,,,Nontraded,5,0,5
+RODENTIA,Baiomys taylori,,,Nontraded,4,1,3
+CETARTIODACTYLA,Balaenoptera acutorostrata,,,Nontraded,1,0,1
+CETARTIODACTYLA,Balaenoptera borealis,,,Nontraded,1,1,0
+CETARTIODACTYLA,Balaenoptera physalus,,,Nontraded,2,2,0
+CHIROPTERA,Balionycteris maculata,,,Nontraded,1,1,0
+RODENTIA,Bandicota bengalensis,,,Nontraded,7,6,1
+RODENTIA,Bandicota indica,,,Nontraded,23,21,2
+CHIROPTERA,Barbastella barbastellus,,,Nontraded,2,0,2
+CHIROPTERA,Bauerus dubiaquercus,,,Nontraded,2,2,0
+RODENTIA,Bibimys chacoensis,,,Nontraded,1,0,1
+CINGULATA,Cabassous centralis,,,Nontraded,1,0,1
+CARNIVORA,Callicebus oenanthe,,,Nontraded,1,1,0
+CARNIVORA,Callorhinus ursinus,,,Nontraded,1,1,0
+RODENTIA,Callosciurus finlaysonii,,,Nontraded,1,1,0
+RODENTIA,Callosciurus notatus,,,Nontraded,4,4,0
+RODENTIA,Callospermophilus lateralis,,,Nontraded,1,0,1
+RODENTIA,Calomys callosus,,,Nontraded,6,2,4
+RODENTIA,Calomys laucha,,,Nontraded,3,1,2
+RODENTIA,Calomys musculinus,,,Nontraded,3,1,2
+RODENTIA,Calomys tener,,,Nontraded,2,1,1
+DIDELPHIMORPHIA,Caluromys derbianus,,,Nontraded,1,0,1
+DIDELPHIMORPHIA,Caluromys philander,,,Nontraded,4,0,4
+CHIROPTERA,Carollia brevicauda,,,Nontraded,3,0,3
+CHIROPTERA,Carollia perspicillata,,,Nontraded,43,31,12
+CHIROPTERA,Carollia sowelli,,,Nontraded,11,11,0
+CHIROPTERA,Carollia subrufa,,,Nontraded,2,1,1
+PRIMATE,Cercopithecus kandti,,,Nontraded,8,8,0
+PRIMATES,Cercopithecus preussi,,,Nontraded,15,15,0
+PRIMATES,Cercopithecus solatus,,,Nontraded,2,1,1
+PRIMATE,Cercopithecus wolfi,,,Nontraded,8,8,0
+Chiroptera,Chaerephon plicatus,,,Nontraded,48,47,1
+RODENTIA,Chaetodipus hispidus,,,Nontraded,1,0,1
+RODENTIA,Chaetodipus spinatus,,,Nontraded,1,0,1
+CINGULATA,Chaetophractus vellerosus,,,Nontraded,2,0,2
+RODENTIA,Chionomys roberti,,,Nontraded,1,0,1
+PILOSA,Choloepus hoffmanni,,Y,Nontraded,4,0,4
+CHIROPTERA,Chrotopterus auritus,,,Nontraded,1,0,1
+RODENTIA,Coendou melanurus,,,Nontraded,1,0,1
+RODENTIA,Coendou rothschildi,,,Nontraded,1,0,1
+CHIROPTERA,Coleura afra,,,Nontraded,8,8,0
+CHIROPTERA,Corynorhinus townsendii,,,Nontraded,1,0,1
+CHIROPTERA,Craseonycteris thonglongyai,,,Nontraded,1,0,1
+EULIPOTYPHLA,Crocidura attenuata,,,Nontraded,3,3,0
+EULIPOTYPHLA,Crocidura goliath,,,Nontraded,6,6,0
+EULIPOTYPHLA,Crocidura leucodon,,,Nontraded,1,0,1
+EULIPOTYPHLA,Crocidura montis,,,Nontraded,1,1,0
+EULIPOTYPHLA,Crocidura olivieri,,,Nontraded,16,16,0
+EULIPOTYPHLA,Crocidura russula,,,Nontraded,1,0,1
+RODENTIA,Ctenodactylus gundi,,,Nontraded,1,0,1
+CARNIVORA,Cynictis penicillata,,,Nontraded,1,0,1
+CHIROPTERA,Cynomops abrasus,,,Nontraded,1,0,1
+CHIROPTERA,Cynomops planirostris,,,Nontraded,1,0,1
+CHIROPTERA,Cynopterus brachyotis,,,Nontraded,23,18,5
+CHIROPTERA,Cynopterus horsfieldii,,,Nontraded,3,3,0
+CARNIVORA,Cystophora cristata,,,Nontraded,4,2,2
+RODENTIA,Dasymys incomtus,,,Nontraded,3,1,2
+RODENTIA,Dasymys rufulus,,,Nontraded,6,6,0
+RODENTIA,Dasyprocta punctata,,Y,Nontraded,2,0,2
+DASYUROMORPHIA,Dasyurus geoffroii,,,Nontraded,1,0,1
+CETARTIODACTYLA,Delphinus delphis,,,Nontraded,1,1,0
+RODENTIA,Deomys ferrugineus,,,Nontraded,1,1,0
+RODENTIA,Dephomys defua,,,Nontraded,1,1,0
+Chiroptera,Dermanura cinereus,,,Nontraded,4,0,4
+CHIROPTERA,Dermanura phaeotis,,,Nontraded,10,4,6
+CHIROPTERA,Dermanura toltecus,,,Nontraded,2,0,2
+RODENTIA,Desmodillus auricularis,,,Nontraded,1,0,1
+CHIROPTERA,Desmodus rotundus,,,Nontraded,11,2,9
+CHIROPTERA,Diaemus youngi,,,Nontraded,1,0,1
+CHIROPTERA,Diclidurus albus,,,Nontraded,1,0,1
+DIDELPHIMORPHIA,Didelphis albiventris,,,Nontraded,1,0,1
+CHIROPTERA,Diphylla ecaudata,,,Nontraded,2,1,1
+RODENTIA,Diplomys labilis,,,Nontraded,1,0,1
+RODENTIA,Dipodomys heermanni,,,Nontraded,2,0,2
+RODENTIA,Dipodomys merriami,,,Nontraded,1,0,1
+RODENTIA,Dipodomys nitratoides,,,Nontraded,2,0,2
+DIPROTODONTIA,Dorcopsis muelleri,,,Nontraded,1,1,0
+CHIROPTERA,Dyacopterus spadiceus,,,Nontraded,2,2,0
+EULIPOTYPHLA,Echinosorex gymnura,,,Nontraded,2,2,0
+RODENTIA,Eothenomys cachinus,,,Nontraded,54,54,0
+RODENTIA,Eothenomys miletus,,,Nontraded,1,1,0
+CHIROPTERA,Epomops dobsonii,,,Nontraded,1,1,0
+CHIROPTERA,Eptesicus brasiliensis,,,Nontraded,1,0,1
+CHIROPTERA,Eptesicus diminutus,,,Nontraded,1,0,1
+CHIROPTERA,Eptesicus furinalis,,,Nontraded,1,0,1
+CHIROPTERA,Eptesicus fuscus,,,Nontraded,9,4,5
+CHIROPTERA,Eptesicus serotinus,,,Nontraded,5,2,3
+EULIPOTYPHLA,Erinaceus amurensis,,,Nontraded,1,0,1
+EULIPOTYPHLA,Erinaceus concolor,,,Nontraded,1,0,1
+EULIPOTYPHLA,Erinaceus europaeus,,,Nontraded,1,0,1
+EULIPOTYPHLA,Erinaceus roumanicus,,,Nontraded,1,0,1
+CETARTIODACTYLA,Eschrichtius robustus,,,Nontraded,1,1,0
+CHIROPTERA,Euderma maculatum,,,Nontraded,1,0,1
+CARNIVORA,Eumetopias jubatus,,,Nontraded,2,1,1
+CHIROPTERA,Eumops auripendulus,,,Nontraded,1,0,1
+CHIROPTERA,Eumops glaucinus,,,Nontraded,1,0,1
+CHIROPTERA,Eumops patagonicus,,,Nontraded,1,0,1
+CHIROPTERA,Eumops perotis,,,Nontraded,1,0,1
+RODENTIA,Funambulus tristriatus,,,Nontraded,1,0,1
+RODENTIA,Gerbilliscus brantsii,,,Nontraded,1,0,1
+RODENTIA,Gerbilliscus kempi,,,Nontraded,7,6,1
+RODENTIA,Gerbilliscus leucogaster,,,Nontraded,1,0,1
+RODENTIA,Gerbilliscus validus,,,Nontraded,1,0,1
+RODENTIA,Gerbillus dasyurus,,,Nontraded,1,0,1
+RODENTIA,Gerbillus gerbillus,,,Nontraded,1,0,1
+CHIROPTERA,Glauconycteris argentata,,,Nontraded,1,0,1
+CHIROPTERA,Glauconycteris poensis,,,Nontraded,2,2,0
+CHIROPTERA,Glauconycteris variegata,,,Nontraded,3,3,0
+CETARTIODACTYLA,Globicephala melas,,,Nontraded,2,1,1
+CHIROPTERA,Glossophaga commissarisi,,,Nontraded,2,1,1
+CHIROPTERA,Glossophaga longirostris,,,Nontraded,1,0,1
+CHIROPTERA,Glossophaga morenoi,,,Nontraded,1,0,1
+CHIROPTERA,Glossophaga soricina,,,Nontraded,24,15,9
+RODENTIA,Graomys griseoflavus,,,Nontraded,1,0,1
+CARNIVORA,Halichoerus grypus,,,Nontraded,2,2,0
+RODENTIA,Handleyomys alfaroi,,,Nontraded,1,0,1
+RODENTIA,Handleyomys fuscatus,,,Nontraded,1,0,1
+RODENTIA,Heimyscus fumosus,,,Nontraded,4,4,0
+EULIPOTYPHLA,Hemiechinus auritus,,,Nontraded,1,0,1
+RODENTIA,Heteromys anomalus,,,Nontraded,4,1,3
+CHIROPTERA,Hipposideros abae,,,Nontraded,1,0,1
+CHIROPTERA,Hipposideros bicolor,,,Nontraded,2,1,1
+CHIROPTERA,Hipposideros caffer,,,Nontraded,235,233,2
+CHIROPTERA,Hipposideros cervinus,,,Nontraded,16,16,0
+CHIROPTERA,Hipposideros cineraceus,,,Nontraded,1,0,1
+CHIROPTERA,Hipposideros curtus,,,Nontraded,3,3,0
+CHIROPTERA,Hipposideros cyclops,,,Nontraded,18,18,0
+CHIROPTERA,Hipposideros diadema,,,Nontraded,10,9,1
+CHIROPTERA,Hipposideros fuliginosus,,,Nontraded,1,1,0
+CHIROPTERA,Hipposideros galeritus,,,Nontraded,15,15,0
+CHIROPTERA,Hipposideros grandis,,,Nontraded,8,8,0
+CHIROPTERA,Hipposideros jonesi,,,Nontraded,1,1,0
+CHIROPTERA,Hipposideros pratti,,,Nontraded,1,1,0
+CHIROPTERA,Histiotus montanus,,,Nontraded,1,0,1
+CHIROPTERA,Histiotus velatus,,,Nontraded,1,0,1
+RODENTIA,Holochilus chacarius,,,Nontraded,2,1,1
+RODENTIA,Holochilus sciureus,,,Nontraded,1,0,1
+RODENTIA,Hoplomys gymnurus,,,Nontraded,1,0,1
+RODENTIA,Hydromys chrysogaster,,,Nontraded,2,0,2
+RODENTIA,Hylaeamys laticeps,,,Nontraded,5,1,4
+RODENTIA,Hylaeamys megacephalus,,,Nontraded,9,2,7
+RODENTIA,Hylomyscus alleni,,,Nontraded,1,1,0
+RODENTIA,Hylomyscus parvus,,,Nontraded,1,1,0
+RODENTIA,Hylomyscus stella,,,Nontraded,5,5,0
+CHIROPTERA,Hypsugo crassulus,,,Nontraded,3,3,0
+CHIROPTERA,Hypsugo musciculus,,,Nontraded,4,4,0
+CHIROPTERA,Hypsugo pulveratus,,,Nontraded,1,0,1
+CHIROPTERA,Ia io,,,Nontraded,8,8,0
+RODENTIA,Ictidomys tridecemlineatus,,,Nontraded,2,0,2
+CHIROPTERA,Kerivoula hardwickii,,,Nontraded,1,1,0
+CHIROPTERA,Kerivoula minuta,,,Nontraded,1,1,0
+CHIROPTERA,Kerivoula pellucida,,,Nontraded,1,1,0
+CHIROPTERA,Lasionycteris noctivagans,,,Nontraded,1,0,1
+CHIROPTERA,Lasiurus blossevillii,,,Nontraded,1,0,1
+CHIROPTERA,Lasiurus borealis,,,Nontraded,1,0,1
+CHIROPTERA,Lasiurus cinereus,,,Nontraded,2,0,2
+CHIROPTERA,Lasiurus ega,,,Nontraded,1,0,1
+CHIROPTERA,Lasiurus egregius,,,Nontraded,1,0,1
+CHIROPTERA,Lasiurus intermedius,,,Nontraded,1,0,1
+CHIROPTERA,Lasiurus seminolus,,,Nontraded,1,0,1
+CHIROPTERA,Lasiurus xanthinus,,,Nontraded,1,0,1
+RODENTIA,Lemmus lemmus,,,Nontraded,2,0,2
+RODENTIA,Lemmus sibiricus,,,Nontraded,1,1,0
+RODENTIA,Lemniscomys rosalia,,,Nontraded,1,1,0
+RODENTIA,Lemniscomys striatus,,,Nontraded,4,2,2
+RODENTIA,Leopoldamys neilli,,,Nontraded,1,1,0
+CARNIVORA,Leptonychotes weddellii,,,Nontraded,4,4,0
+CHIROPTERA,Leptonycteris curasoae,,,Nontraded,1,0,1
+CHIROPTERA,Leptonycteris nivalis,,,Nontraded,1,0,1
+CHIROPTERA,Lichonycteris obscura,,,Nontraded,2,2,0
+RODENTIA,Liomys adspersus,,,Nontraded,1,0,1
+CARNIVORA,Lobodon carcinophaga,,,Nontraded,2,1,1
+CHIROPTERA,Lonchophylla robusta,,,Nontraded,2,0,2
+PRIMATES,Lonchophylla thomasi,,,Nontraded,1,1,0
+CHIROPTERA,Lonchorhina aurita,,,Nontraded,2,1,1
+CHIROPTERA,Lophostoma brasiliense,,,Nontraded,1,0,1
+CHIROPTERA,Lophostoma silvicolum,,,Nontraded,2,0,2
+RODENTIA,Lophuromys flavopunctatus,,,Nontraded,2,1,1
+RODENTIA,Lophuromys nudicaudus,,,Nontraded,8,8,0
+RODENTIA,Lophuromys sikapusi,,,Nontraded,5,2,3
+RODENTIA,Loxodontomys micropus,,,Nontraded,1,0,1
+CHIROPTERA,Macroglossus minimus,,,Nontraded,1,1,0
+CHIROPTERA,Macroglossus sobrinus,,,Nontraded,3,2,1
+CHIROPTERA,Macronycteris vittatus,,,Nontraded,2,2,0
+CHIROPTERA,Macrotus californicus,,,Nontraded,1,0,1
+RODENTIA,Madromys blanfordi,,,Nontraded,1,0,1
+RODENTIA,Malacomys longipes,,,Nontraded,6,6,0
+Pholidota,Manis tricuspis,,,Nontraded,2,2,0
+DIDELPHIMORPHIA,Marmosa murina,,,Nontraded,1,0,1
+RODENTIA,Mastomys awashensis,,,Nontraded,1,0,1
+RODENTIA,Mastomys coucha,,,Nontraded,1,0,1
+RODENTIA,Mastomys erythroleucus,,,Nontraded,5,1,4
+RODENTIA,Mastomys huberti,,,Nontraded,3,1,2
+RODENTIA,Mastomys natalensis,,,Nontraded,26,19,7
+RODENTIA,Maxomys surifer,,,Nontraded,2,2,0
+RODENTIA,Maxomys whiteheadi,,,Nontraded,5,5,0
+RODENTIA,Megadontomys nelsoni,,,Nontraded,2,1,1
+CHIROPTERA,Megaerops ecaudatus,,,Nontraded,1,0,1
+CHIROPTERA,Megaerops niphanae,,,Nontraded,1,1,0
+RODENTIA,Melanomys caliginosus,,,Nontraded,1,0,1
+RODENTIA,Menetes berdmorei,,,Nontraded,2,2,0
+RODENTIA,Meriones crassus,,,Nontraded,1,0,1
+RODENTIA,Meriones libycus,,,Nontraded,2,0,2
+RODENTIA,Meriones meridianus,,,Nontraded,1,0,1
+RODENTIA,Mesocricetus auratus,,,Nontraded,8,6,2
+CHIROPTERA,Mesophylla macconnelli,,,Nontraded,2,2,0
+DIDELPHIMORPHIA,Metachirus nudicaudatus,,,Nontraded,2,0,2
+"	Didelphimorphia",Micoureus demerarae,,,Nontraded,1,1,0
+RODENTIA,Micromys minutus,,,Nontraded,1,0,1
+CHIROPTERA,Micronycteris megalotis,,,Nontraded,1,0,1
+RODENTIA,Microtus agrestis,,,Nontraded,12,4,8
+RODENTIA,Microtus arvalis,,,Nontraded,7,2,5
+RODENTIA,Microtus californicus,,,Nontraded,7,2,5
+RODENTIA,Microtus fortis,,,Nontraded,2,1,1
+RODENTIA,Microtus gregalis,,,Nontraded,2,0,2
+RODENTIA,Microtus ilaeus,,,Nontraded,1,0,1
+RODENTIA,Microtus levis,,,Nontraded,2,0,2
+RODENTIA,Microtus maximowiczii,,,Nontraded,1,1,0
+RODENTIA,Microtus ochrogaster,,,Nontraded,2,1,1
+RODENTIA,Microtus oeconomus,,,Nontraded,5,1,4
+RODENTIA,Microtus pennsylvanicus,,,Nontraded,7,3,4
+RODENTIA,Microtus subterraneus,,,Nontraded,1,0,1
+RODENTIA,Millardia meltada,,,Nontraded,1,0,1
+CHIROPTERA,Mimon crenulatum,,,Nontraded,1,1,0
+CHIROPTERA,Miniopterus fuliginosus,,,Nontraded,3,1,2
+CHIROPTERA,Miniopterus inflatus,,,Nontraded,37,36,1
+CHIROPTERA,Miniopterus magnater,,,Nontraded,171,171,0
+CHIROPTERA,Miniopterus minor,,,Nontraded,1,1,0
+CHIROPTERA,Miniopterus pusillus,,,Nontraded,6,5,1
+CHIROPTERA,Miniopterus schreibersii,,,Nontraded,77,69,8
+CHIROPTERA,Miniopterus tristis,,,Nontraded,1,1,0
+CARNIVORA,Mirounga leonina,,,Nontraded,1,1,0
+CHIROPTERA,Molossops neglectus,,,Nontraded,1,0,1
+CHIROPTERA,Molossus currentium,,,Nontraded,1,0,1
+CHIROPTERA,Molossus molossus,,,Nontraded,8,1,7
+CHIROPTERA,Molossus rufus,,,Nontraded,9,3,6
+Chiroptera,Mops condylura,,,Nontraded,6,3,3
+CHIROPTERA,Mops condylurus,,,Nontraded,102,102,0
+CHIROPTERA,Mops demonstrator,,,Nontraded,1,1,0
+CHIROPTERA,Mormoops megalophylla,,,Nontraded,3,1,2
+CHIROPTERA,Murina aurata,,,Nontraded,1,0,1
+CHIROPTERA,Murina cyclotis,,,Nontraded,1,0,1
+CHIROPTERA,Murina leucogaster,,,Nontraded,2,0,2
+RODENTIA,Mus booduga,,,Nontraded,2,0,2
+RODENTIA,Mus bufo,,,Nontraded,1,1,0
+RODENTIA,Mus caroli,,,Nontraded,2,2,0
+RODENTIA,Mus cervicolor,,,Nontraded,6,6,0
+RODENTIA,Mus cookii,,,Nontraded,2,2,0
+RODENTIA,Mus minutoides,,,Nontraded,2,2,0
+RODENTIA,Mus musculoides,,,Nontraded,175,171,4
+RODENTIA,Mus setulosus,,,Nontraded,3,2,1
+RODENTIA,Mus spicilegus,,,Nontraded,1,1,0
+RODENTIA,Mus spretus,,,Nontraded,3,1,2
+RODENTIA,Mus_minutoides,,,Nontraded,1,0,1
+RODENTIA,Myocastor coypus,,,Nontraded,4,0,4
+RODENTIA,Myodes gapperi,,,Nontraded,3,0,3
+RODENTIA,Myodes glareolus,,,Nontraded,20,4,16
+RODENTIA,Myodes regulus,,,Nontraded,2,0,2
+RODENTIA,Myodes rufocanus,,,Nontraded,3,1,2
+RODENTIA,Myodes rutilus,,,Nontraded,5,0,5
+CHIROPTERA,Myotis albescens,,,Nontraded,3,2,1
+CHIROPTERA,Myotis altarium,,,Nontraded,1,1,0
+CHIROPTERA,Myotis austroriparius,,,Nontraded,1,0,1
+CHIROPTERA,Myotis bechsteinii,,,Nontraded,1,0,1
+CHIROPTERA,Myotis blythii,,,Nontraded,2,1,1
+CHIROPTERA,Myotis californicus,,,Nontraded,3,2,1
+CHIROPTERA,Myotis chiloensis,,,Nontraded,1,0,1
+CHIROPTERA,Myotis chinensis,,,Nontraded,1,1,0
+CHIROPTERA,Myotis ciliolabrum,,,Nontraded,1,0,1
+CHIROPTERA,Myotis dasycneme,,,Nontraded,2,0,2
+CHIROPTERA,Myotis daubentonii,,,Nontraded,12,8,4
+CHIROPTERA,Myotis evotis,,,Nontraded,2,1,1
+CHIROPTERA,Myotis fimbriatus,,,Nontraded,2,2,0
+CHIROPTERA,Myotis grisescens,,,Nontraded,1,0,1
+CHIROPTERA,Myotis horsfieldii,,,Nontraded,52,52,0
+CHIROPTERA,Myotis keaysi,,,Nontraded,4,4,0
+CHIROPTERA,Myotis keenii,,,Nontraded,3,0,3
+CHIROPTERA,Myotis laniger,,,Nontraded,11,11,0
+CHIROPTERA,Myotis leibii,,,Nontraded,1,0,1
+CHIROPTERA,Myotis levis,,,Nontraded,1,0,1
+CHIROPTERA,Myotis longipes,,,Nontraded,2,2,0
+CHIROPTERA,Myotis lucifugus,,,Nontraded,9,5,4
+CHIROPTERA,Myotis macrodactylus,,,Nontraded,1,0,1
+CHIROPTERA,Myotis muricola,,,Nontraded,1,1,0
+CHIROPTERA,Myotis myotis,,,Nontraded,7,5,2
+CHIROPTERA,Myotis nigricans,,,Nontraded,3,0,3
+CHIROPTERA,Myotis occultus,,,Nontraded,1,0,1
+CHIROPTERA,Myotis oxyotus,,,Nontraded,2,2,0
+CHIROPTERA,Myotis pilosus,,,Nontraded,8,6,2
+CHIROPTERA,Myotis ricketti,,,Nontraded,57,57,0
+CHIROPTERA,Myotis riparius,,,Nontraded,1,0,1
+CHIROPTERA,Myotis septentrionalis,,,Nontraded,4,0,4
+CHIROPTERA,Myotis siligorensis,,,Nontraded,5,5,0
+CHIROPTERA,Myotis thysanodes,,,Nontraded,1,0,1
+CHIROPTERA,Myotis velifer,,,Nontraded,4,3,1
+CHIROPTERA,Myotis volans,,,Nontraded,2,1,1
+CHIROPTERA,Myotis welwitschii,,,Nontraded,2,2,0
+CHIROPTERA,Myotis yumanensis,,,Nontraded,2,1,1
+CHIROPTERA,Natalus stramineus,,,Nontraded,1,0,1
+CHIROPTERA,Natalus tumidirostris,,,Nontraded,5,2,3
+RODENTIA,Neacomys guianae,,,Nontraded,1,1,0
+RODENTIA,Neacomys spinosus,,,Nontraded,1,1,0
+RODENTIA,Necromys amoenus,,,Nontraded,1,1,0
+RODENTIA,Necromys benefactus,,,Nontraded,2,0,2
+RODENTIA,Necromys lasiurus,,,Nontraded,1,0,1
+RODENTIA,Necromys obscurus,,,Nontraded,3,0,3
+RODENTIA,Nectomys squamipes,,,Nontraded,6,0,6
+CHIROPTERA,Neoromicia brunnea,,,Nontraded,1,1,0
+RODENTIA,Neoromicia capensis,,,Nontraded,1,0,1
+CHIROPTERA,Neoromicia nana,,,Nontraded,2,2,0
+CHIROPTERA,Neoromicia somalica,,,Nontraded,1,1,0
+CHIROPTERA,Neoromicia tenuipinnis,,,Nontraded,6,6,0
+RODENTIA,Neotoma albigula,,,Nontraded,3,0,3
+RODENTIA,Neotoma cinerea,,,Nontraded,2,0,2
+RODENTIA,Neotoma floridana,,,Nontraded,1,0,1
+RODENTIA,Neotoma fuscipes,,,Nontraded,4,0,4
+RODENTIA,Neotoma lepida,,,Nontraded,2,1,1
+RODENTIA,Neotoma leucodon,,,Nontraded,2,1,1
+RODENTIA,Neotoma macrotis,,,Nontraded,1,0,1
+RODENTIA,Neotoma mexicana,,,Nontraded,2,1,1
+RODENTIA,Neotoma micropus,,,Nontraded,2,0,2
+RODENTIA,Neotoma stephensi,,,Nontraded,1,0,1
+RODENTIA,Nephelomys albigularis,,,Nontraded,2,0,2
+RODENTIA,Nesokia indica,,,Nontraded,1,0,1
+RODENTIA,Niviventer confucianus,,,Nontraded,2,1,1
+RODENTIA,Niviventer cremoriventer,,,Nontraded,2,2,0
+RODENTIA,Niviventer fulvescens,,,Nontraded,1,1,0
+CHIROPTERA,Nyctalus leisleri,,,Nontraded,1,1,0
+CHIROPTERA,Nyctalus noctula,,,Nontraded,9,3,6
+CHIROPTERA,Nyctalus plancyi,,,Nontraded,2,1,1
+Chiroptera,Nyctalus velutinus,,,Nontraded,1,0,1
+CHIROPTERA,Nycteris gambiensis,,,Nontraded,3,3,0
+CHIROPTERA,Nycteris grandis,,,Nontraded,4,4,0
+CHIROPTERA,Nycteris hispida,,,Nontraded,3,3,0
+CHIROPTERA,Nycteris major,,,Nontraded,1,1,0
+CHIROPTERA,Nycteris nana,,,Nontraded,2,2,0
+CHIROPTERA,Nycteris thebaica,,,Nontraded,2,1,1
+CHIROPTERA,Nycteris tragata,,,Nontraded,1,1,0
+CHIROPTERA,Nycticeius humeralis,,,Nontraded,1,0,1
+CHIROPTERA,Nyctinomops laticaudatus,,,Nontraded,2,1,1
+CHIROPTERA,Nyctinomops macrotis,,,Nontraded,1,0,1
+LAGOMORPHA,Ochotona thibetana,,,Nontraded,2,2,0
+CARNIVORA,Odobenus rosmarus,,,Nontraded,3,2,1
+RODENTIA,Oecomys bicolor,,,Nontraded,3,2,1
+RODENTIA,Oecomys paricola,,,Nontraded,2,2,0
+RODENTIA,Oligoryzomys chacoensis,,,Nontraded,2,0,2
+RODENTIA,Oligoryzomys fornesi,,,Nontraded,2,0,2
+RODENTIA,Oligoryzomys fulvescens,,,Nontraded,3,1,2
+RODENTIA,Oligoryzomys longicaudatus,,,Nontraded,4,1,3
+RODENTIA,Oligoryzomys microtis,,,Nontraded,2,0,2
+RODENTIA,Oligoryzomys nigripes,,,Nontraded,6,0,6
+RODENTIA,Onychomys leucogaster,,,Nontraded,1,0,1
+RODENTIA,Onychomys torridus,,,Nontraded,2,0,2
+CETARTIODACTYLA,Orcinus orca,,Y,Nontraded,1,0,1
+CETARTIODACTYLA,Oryx beisa,,,Nontraded,2,2,0
+RODENTIA,Oryzomys couesi,,,Nontraded,4,3,1
+Rodentia,Oryzomys flavescens,,,Nontraded,1,1,0
+RODENTIA,Oryzomys palustris,,,Nontraded,4,1,3
+CARNIVORA,Otaria bryonia,,,Nontraded,2,0,2
+PRIMATES,Otaria flavescens,,,Nontraded,2,1,1
+CHIROPTERA,Otomops martiensseni,,,Nontraded,4,4,0
+RODENTIA,Otomys irroratus,,,Nontraded,1,1,0
+RODENTIA,Otomys tropicalis,,,Nontraded,3,2,1
+RODENTIA,Otospermophilus beecheyi,,,Nontraded,5,1,4
+RODENTIA,Otospermophilus variegatus,,,Nontraded,1,0,1
+RODENTIA,Oxymycterus nasutus,,,Nontraded,1,0,1
+RODENTIA,Oxymycterus quaestor,,,Nontraded,1,0,1
+RODENTIA,Oxymycterus rufus,,,Nontraded,1,0,1
+CARNIVORA,Pagophilus groenlandicus,,,Nontraded,4,2,2
+CHIROPTERA,Parastrellus hesperus,,,Nontraded,1,0,1
+RODENTIA,Pelomys isseli,,,Nontraded,1,1,0
+PERAMELEMORPHIA,Perameles nasuta,,,Nontraded,1,1,0
+RODENTIA,Perognathus parvus,,,Nontraded,1,0,1
+RODENTIA,Peromyscus attwateri,,,Nontraded,1,0,1
+RODENTIA,Peromyscus boylii,,,Nontraded,4,1,3
+RODENTIA,Peromyscus californicus,,,Nontraded,3,1,2
+RODENTIA,Peromyscus difficilis,,,Nontraded,1,0,1
+RODENTIA,Peromyscus eremicus,,,Nontraded,2,0,2
+RODENTIA,Peromyscus gossypinus,,,Nontraded,7,2,5
+RODENTIA,Peromyscus leucopus,,,Nontraded,12,2,10
+RODENTIA,Peromyscus maniculatus,,,Nontraded,12,2,10
+RODENTIA,Peromyscus megalops,,,Nontraded,1,0,1
+RODENTIA,Peromyscus melanophrys,,,Nontraded,1,0,1
+RODENTIA,Peromyscus melanotis,,,Nontraded,1,0,1
+RODENTIA,Peromyscus mexicanus,,,Nontraded,3,2,1
+RODENTIA,Peromyscus truei,,,Nontraded,5,1,4
+MACROSCELIDEA,Petrodromus tetradactylus,,,Nontraded,1,0,1
+DIDELPHIMORPHIA,Philander opossum,,,Nontraded,6,1,5
+CHIROPTERA,Philetor brachypterus,,,Nontraded,1,0,1
+CARNIVORA,Phoca vitulina,,,Nontraded,6,3,3
+CETARTIODACTYLA,Phocoena phocoena,,,Nontraded,1,1,0
+CETARTIODACTYLA,Phocoena spinipinnis,,,Nontraded,1,1,0
+CETARTIODACTYLA,Phocoenoides dalli,,,Nontraded,1,0,1
+CHIROPTERA,Phyllostomus discolor,,,Nontraded,3,1,2
+CHIROPTERA,Phyllostomus hastatus,,,Nontraded,14,4,10
+RODENTIA,Phyllotis darwini,,,Nontraded,1,0,1
+CETARTIODACTYLA,Physeter macrocephalus,,,Nontraded,1,1,0
+CHIROPTERA,Pipistrellus abramus,,,Nontraded,2,1,1
+CHIROPTERA,Pipistrellus ceylonicus,,,Nontraded,1,0,1
+CHIROPTERA,Pipistrellus coromandra,,,Nontraded,4,4,0
+CHIROPTERA,Pipistrellus inexspectatus,,,Nontraded,2,2,0
+CHIROPTERA,Pipistrellus kuhlii,,,Nontraded,19,17,2
+CHIROPTERA,Pipistrellus nanulus,,,Nontraded,1,1,0
+CHIROPTERA,Pipistrellus nathusii,,,Nontraded,3,2,1
+CHIROPTERA,Pipistrellus pipistrellus,,,Nontraded,25,22,3
+CHIROPTERA,Pipistrellus pulveratus,,,Nontraded,1,0,1
+CHIROPTERA,Pipistrellus pygmaeus,,,Nontraded,1,1,0
+CHIROPTERA,Pipistrellus subflavus,,,Nontraded,1,0,1
+PRIMATES,Pithecia irrorata,,,Nontraded,1,1,0
+PRIMATES,Pithecia monachus,,,Nontraded,1,0,1
+CHIROPTERA,Platyrrhinus helleri,,,Nontraded,4,0,4
+CHIROPTERA,Plecotus auritus,,,Nontraded,5,3,2
+RODENTIA,Praomys derooi,,,Nontraded,7,7,0
+RODENTIA,Praomys jacksoni,,,Nontraded,6,4,2
+RODENTIA,Praomys misonnei,,,Nontraded,1,1,0
+RODENTIA,Praomys tullbergi,,,Nontraded,35,35,0
+PRIMATES,Procolobus rufomitratus,,,Nontraded,2,1,1
+RODENTIA,Proechimys guairae,,,Nontraded,2,0,2
+RODENTIA,Proechimys guyannensis,,,Nontraded,12,2,10
+RODENTIA,Proechimys longicaudatus,,,Nontraded,1,1,0
+RODENTIA,Proechimys semispinosus,,,Nontraded,6,1,5
+RODENTIA,Psammomys obesus,,,Nontraded,1,1,0
+CHIROPTERA,Pteronotus davyi,,,Nontraded,9,3,6
+CHIROPTERA,Pteronotus parnellii,,,Nontraded,13,7,6
+CHIROPTERA,Pteronotus personatus,,,Nontraded,1,1,0
+PRIMATES,Pteropus medius,,,Nontraded,2,0,2
+CARNIVORA,Pusa caspica,,,Nontraded,1,0,1
+CARNIVORA,Pusa hispida,,,Nontraded,1,0,1
+CARNIVORA,Pusa sibirica,,,Nontraded,2,0,2
+RODENTIA,Rattus argentiventer,,,Nontraded,65,65,0
+RODENTIA,Rattus exulans,,,Nontraded,42,39,3
+RODENTIA,Rattus fuscipes,,,Nontraded,2,1,1
+RODENTIA,Rattus leucopus,,,Nontraded,1,-5,6
+RODENTIA,Rattus losea,,,Nontraded,17,16,1
+RODENTIA,Rattus nitidus,,,Nontraded,1,0,1
+RODENTIA,Rattus norvegicus,,,Nontraded,72,57,15
+RODENTIA,Rattus pyctoris,,,Nontraded,1,0,1
+RODENTIA,Rattus tanezumi,,,Nontraded,21,19,2
+RODENTIA,Rattus tiomanicus,,,Nontraded,3,3,0
+RODENTIA,Reithrodontomys fulvescens,,,Nontraded,1,0,1
+RODENTIA,Reithrodontomys megalotis,,,Nontraded,4,0,4
+RODENTIA,Reithrodontomys mexicanus,,,Nontraded,1,1,0
+RODENTIA,Rhabdomys pumilio,,,Nontraded,1,0,1
+CHIROPTERA,Rhinolophus cornutus,,,Nontraded,1,1,0
+CHIROPTERA,Rhinolophus hildebrandti,,,Nontraded,1,1,0
+CHIROPTERA,Rhinolophus horsfieldi,,,Nontraded,1,0,1
+CHIROPTERA,Rhinolophus lepidus,,,Nontraded,4,3,1
+CHIROPTERA,Rhinolophus pusillus,,,Nontraded,12,9,3
+CHIROPTERA,Rhinophylla pumilio,,,Nontraded,3,3,0
+RODENTIA,Rhinopoma hardwickii,,,Nontraded,18,17,1
+RODENTIA,Rhinosciurus laticaudatus,,,Nontraded,2,2,0
+CHIROPTERA,Rhogeessa parvula,,,Nontraded,1,1,0
+RODENTIA,Rhombomys opimus,,,Nontraded,4,0,4
+CHIROPTERA,Rhynchonycteris naso,,,Nontraded,2,1,1
+CETARTIODACTYLA,Rusa timorensis,,,Nontraded,1,1,0
+EULIPOTYPHLA,Ruwenzorisorex suncoides,,,Nontraded,1,1,0
+CHIROPTERA,Saccolaimus flaviventris,,,Nontraded,1,0,1
+CHIROPTERA,Saccolaimus saccolaimus,,,Nontraded,1,0,1
+CHIROPTERA,Sapajus libidinosus,,,Nontraded,2,1,1
+CHIROPTERA,Sapajus nigritus,,,Nontraded,1,1,0
+CHIROPTERA,Scotophilus dinganii,,,Nontraded,4,4,0
+CHIROPTERA,Scotophilus heathii,,,Nontraded,7,6,1
+CHIROPTERA,Scotophilus kuhlii,,,Nontraded,275,270,5
+CHIROPTERA,Scotophilus leucogaster,,,Nontraded,13,13,0
+CHIROPTERA,Scotophilus nigrita,,,Nontraded,1,1,0
+CHIROPTERA,Scotophilus nux,,,Nontraded,2,2,0
+RODENTIA,Sekeetamys calurus,,,Nontraded,1,0,1
+RODENTIA,Sigmodon alstoni,,,Nontraded,3,1,2
+RODENTIA,Sigmodon hirsutus,,,Nontraded,1,0,1
+RODENTIA,Sigmodon hispidus,,,Nontraded,23,8,15
+RODENTIA,Sigmodon mascotensis,,,Nontraded,1,1,0
+RODENTIA,Sigmodon toltecus,,,Nontraded,1,0,1
+RODENTIA,Sooretamys angouya,,,Nontraded,4,1,3
+EULIPOTYPHLA,Sorex araneus,,,Nontraded,2,0,2
+CETARTIODACTYLA,Stenella coeruleoalba,,,Nontraded,1,1,0
+RODENTIA,Stenocephalemys albipes,,,Nontraded,1,0,1
+CHIROPTERA,Sturnira erythromos,,,Nontraded,2,2,0
+CHIROPTERA,Sturnira lilium,,,Nontraded,29,19,10
+CHIROPTERA,Sturnira ludovici,,,Nontraded,4,3,1
+CHIROPTERA,Sturnira tildae,,,Nontraded,1,0,1
+EULIPOTYPHLA,Suncus murinus,,,Nontraded,35,33,2
+RODENTIA,Sundamys infraluteus,,,Nontraded,2,2,0
+RODENTIA,Sundasciurus hippurus,,,Nontraded,1,1,0
+RODENTIA,Sundasciurus lowii,,,Nontraded,1,1,0
+Cetartiodactyla,Sus scrofa domesticus,,,Nontraded,17,17,0
+CHIROPTERA,Syconycteris australis,,,Nontraded,1,1,0
+LAGOMORPHA,Sylvilagus bachmani,,,Nontraded,1,1,0
+LAGOMORPHA,Sylvilagus brasiliensis,,,Nontraded,3,1,2
+EULIPOTYPHLA,Sylvisorex ollula,,,Nontraded,1,1,0
+CHIROPTERA,Tadarida teniotis,,,Nontraded,1,0,1
+EULIPOTYPHLA,Talpa romana,,,Nontraded,1,0,1
+RODENTIA,Tamias amoenus,,,Nontraded,1,0,1
+RODENTIA,Tamias minimus,,,Nontraded,1,0,1
+RODENTIA,Tamias sibiricus,,,Nontraded,1,1,0
+RODENTIA,Tamias striatus,,,Nontraded,6,0,6
+RODENTIA,Tamias umbrinus,,,Nontraded,1,0,1
+CHIROPTERA,Taphozous longimanus,,,Nontraded,3,3,0
+CHIROPTERA,Taphozous mauritianus,,,Nontraded,1,1,0
+CHIROPTERA,Taphozous melanopogon,,,Nontraded,72,69,3
+PRIMATES,Taphozous perforatus,,,Nontraded,5,3,2
+CETARTIODACTYLA,Taurotragus oryx,,,Nontraded,7,0,7
+RODENTIA,Thallomys nigricauda,,,Nontraded,1,0,1
+RODENTIA,Thamnomys macmillani,,,Nontraded,1,1,0
+RODENTIA,Thaptomys nigrita,,,Nontraded,1,0,1
+RODENTIA,Thomasomys vulcani,,,Nontraded,1,0,1
+RODENTIA,Thomomys talpoides,,,Nontraded,1,0,1
+CINGULATA,Tolypeutes matacus,,,Nontraded,2,0,2
+CHIROPTERA,Tonatia bidens,,,Nontraded,1,0,1
+CHIROPTERA,Trachops cirrhosus,,,Nontraded,1,0,1
+PRIMATES,Trachypithecus obscurus,,,Nontraded,1,1,0
+CHIROPTERA,Triaenops persicus,,,Nontraded,129,129,0
+DIPROTODONTIA,Trichosurus vulpecula,,,Nontraded,3,1,2
+RODENTIA,Trinomys iheringi,,,Nontraded,1,0,1
+CETARTIODACTYLA,Tursiops truncatus,,Y,Nontraded,1,1,0
+RODENTIA,Tylomys nudicaudus,,,Nontraded,1,0,1
+CHIROPTERA,Tylonycteris pachypus,,,Nontraded,20,19,1
+CHIROPTERA,Tylonycteris robustula,,,Nontraded,1,0,1
+RODENTIA,Uranomys ruddi,,,Nontraded,1,1,0
+RODENTIA,Urocitellus columbianus,,,Nontraded,1,0,1
+RODENTIA,Urocitellus richardsonii,,,Nontraded,3,1,2
+CHIROPTERA,Uroderma bilobatum,,,Nontraded,7,3,4
+CHIROPTERA,Vampyrodes caraccioli,,,Nontraded,2,0,2
+CHIROPTERA,Vampyrum spectrum,,,Nontraded,1,1,0
+RODENTIA,Vandeleuria oleracea,,,Nontraded,1,0,1
+CHIROPTERA,Vespadelus pumilus,,,Nontraded,1,0,1
+CHIROPTERA,Vespertilio murinus,,,Nontraded,4,0,4
+CHIROPTERA,Vespertilio sinensis,,,Nontraded,6,4,2
+CARNIVORA,Vulpes lagopus,,,Nontraded,3,0,3
+RODENTIA,Xerus inauris,,,Nontraded,1,0,1
+CARNIVORA,Zalophus californianus,,,Nontraded,3,3,0
+RODENTIA,Zygodontomys brevicauda,,,Nontraded,13,5,8
+PILOSA,Bradypus tridactylus,,,Future traded,5,0,5
+CARNIVORA,Canis simensis,,,Future traded,4,2,2
+PILOSA,Choloepus didactylus,,,Future traded,2,0,2
+RODENTIA,Cynomys ludovicianus,,,Future traded,2,1,1
+RODENTIA,Dasyprocta leporina,,,Future traded,3,0,3
+CHIROPTERA,Dobsonia anderseni,,,Future traded,2,0,2
+CHIROPTERA,Dobsonia moluccensis,,,Future traded,2,0,2
+CHIROPTERA,Epomophorus gambianus,,,Future traded,45,44,1
+CHIROPTERA,Epomophorus wahlbergi,,,Future traded,1,1,0
+RODENTIA,Funisciurus congicus,,,Future traded,1,0,1
+RODENTIA,Funisciurus pyrropus,,,Future traded,2,2,0
+RODENTIA,Glaucomys volans,,,Future traded,1,0,1
+Carnivora,Herpestes ichneumon,,,Future traded,2,0,2
+RODENTIA,Hylopetes phayrei,,,Future traded,1,1,0
+CARNIVORA,Ichneumia albicauda,,,Future traded,2,0,2
+CHIROPTERA,Lissonycteris angolensis,,,Future traded,11,11,0
+DIPROTODONTIA,Macropus fuliginosus,,,Future traded,3,2,1
+DIPROTODONTIA,Macropus giganteus,,,Future traded,10,4,6
+DIPROTODONTIA,Macropus parma,,,Future traded,1,1,0
+DIPROTODONTIA,Macropus robustus,,,Future traded,2,1,1
+DIPROTODONTIA,Macropus rufogriseus,,,Future traded,2,0,2
+DIPROTODONTIA,Macropus rufus,,,Future traded,2,2,0
+RODENTIA,Marmota flaviventris,,,Future traded,3,0,3
+RODENTIA,Marmota monax,,,Future traded,7,2,5
+CHIROPTERA,Megaloglossus woermanni,,,Future traded,32,32,0
+CHIROPTERA,Myonycteris angolensis,,,Future traded,1,1,0
+CHIROPTERA,Myonycteris torquata,,,Future traded,5,4,1
+CHIROPTERA,Nanonycteris veldkampii,,,Future traded,2,2,0
+RODENTIA,Oligoryzomys flavescens,,,Future traded,3,0,3
+Carnivora,Pseudalopex vetulus,,,Future traded,1,0,1
+CHIROPTERA,Rhinolophus acuminatus,,,Future traded,1,1,0
+CHIROPTERA,Rhinolophus affinis,,,Future traded,27,26,1
+CHIROPTERA,Rhinolophus arcuatus,,,Future traded,3,3,0
+CHIROPTERA,Rhinolophus blasii,,,Future traded,3,2,1
+CHIROPTERA,Rhinolophus clivosus,,,Future traded,13,13,0
+CHIROPTERA,Rhinolophus coelophyllus,,,Future traded,12,12,0
+CHIROPTERA,Rhinolophus eloquens,,,Future traded,4,3,1
+CHIROPTERA,Rhinolophus euryale,,,Future traded,7,6,1
+CHIROPTERA,Rhinolophus ferrumequinum,,,Future traded,13,5,8
+CHIROPTERA,Rhinolophus formosae,,,Future traded,1,1,0
+CHIROPTERA,Rhinolophus fumigatus,,,Future traded,9,9,0
+CHIROPTERA,Rhinolophus hildebrandtii,,,Future traded,1,0,1
+CHIROPTERA,Rhinolophus hipposideros,,,Future traded,1,0,1
+CHIROPTERA,Rhinolophus landeri,,,Future traded,9,9,0
+CHIROPTERA,Rhinolophus macrotis,,,Future traded,2,1,1
+CHIROPTERA,Rhinolophus mehelyi,,,Future traded,14,13,1
+CHIROPTERA,Rhinolophus paradoxolophus,,,Future traded,1,1,0
+CHIROPTERA,Rhinolophus pearsonii,,,Future traded,3,2,1
+CHIROPTERA,Rhinolophus rex,,,Future traded,7,7,0
+CHIROPTERA,Rhinolophus rouxii,,,Future traded,3,1,2
+CHIROPTERA,Rhinolophus shameli,,,Future traded,9,9,0
+CHIROPTERA,Rhinolophus sinicus,,,Future traded,29,27,2
+CHIROPTERA,Rhinolophus thomasi,,,Future traded,4,4,0
+CHIROPTERA,Rhinolophus trifoliatus,,,Future traded,2,2,0
+RODENTIA,Sciurus granatensis,,,Future traded,1,0,1
+RODENTIA,Sciurus griseus,,,Future traded,3,0,3
+RODENTIA,Sciurus niger,,,Future traded,6,0,6
+RODENTIA,Sciurus variegatoides,,,Future traded,1,0,1
+DIPROTODONTIA,Setonix brachyurus,,,Future traded,1,0,1
+RODENTIA,Spermophilus citellus,,,Future traded,3,2,1
+CHIROPTERA,Tadarida brasiliensis,,,Future traded,10,4,6
+RODENTIA,Tamiasciurus hudsonicus,,,Future traded,5,2,3
+Carnivora,Urocyon littoralis,,,Future traded,2,1,1
+CHIROPTERA,Acerodon celebensis,Prod,,Traded,1,1,0
+CHIROPTERA,Acerodon jubatus,prod,,Traded,1,1,0
+CARNIVORA,Acinonyx jubatus,"Pet, Prod",Y,Traded,8,5,3
+CETARTIODACTYLA,Aepyceros melampus,Prod,,Traded,11,6,5
+CARNIVORA,Ailurus fulgens,"Pet, Prod",,Traded,2,0,2
+CETARTIODACTYLA,Alcelaphus buselaphus,Prod,,Traded,9,5,4
+PRIMATES,Allenopithecus nigroviridis,"Pet, Prod",,Traded,5,3,2
+PRIMATES,Allochrocebus lhoesti,"pet, Prod",Y,Traded,2,0,2
+PRIMATES,Alouatta belzebul,Prod,,Traded,2,1,1
+PRIMATES,Alouatta caraya,"Pet, Prod",Y,Traded,4,1,3
+PRIMATES,Alouatta guariba,Prod,,Traded,2,1,1
+PRIMATES,Alouatta palliata,"Pet, Prod",,Traded,3,1,2
+PRIMATES,Alouatta pigra,"Pet, Prod",,Traded,3,1,2
+PRIMATES,Alouatta sara,Prod,,Traded,2,2,0
+CETARTIODACTYLA,Ammotragus lervia,"Pet, Prod",Y,Traded,2,2,0
+RODENTIA,Anomalurus derbianus,"Pet, Prod",,Traded,2,1,1
+CETARTIODACTYLA,Antidorcas marsupialis,Prod,,Traded,5,2,3
+CETARTIODACTYLA,Antilocapra americana,Prod,,Traded,6,4,2
+CETARTIODACTYLA,Antilope cervicapra,"Pet, Prod",Y,Traded,3,2,1
+PRIMATES,Aotus azarae,"Pet, Prod",,Traded,1,0,1
+CHIROPTERA,Aotus nigriceps,Pet,,Traded,1,1,0
+PRIMATES,Aotus trivirgatus,"Pet, Prod",,Traded,9,3,6
+CARNIVORA,Arctocephalus australis,Prod,Y,Traded,1,0,1
+CARNIVORA,Arctonyx collaris,Prod,,Traded,1,0,1
+PRIMATES,Ateles geoffroyi,"Pet, Prod",,Traded,3,3,0
+RODENTIA,Ateles paniscus,"Pet, Prod",,Traded,2,1,1
+CARNIVORA,Atilax paludinosus,Prod,,Traded,1,0,1
+CETARTIODACTYLA,Babyrousa babyrussa,"Pet, Prod",,Traded,1,0,1
+RODENTIA,Bandicota savilei,Prod,,Traded,3,1,2
+CARNIVORA,Bassaricyon gabbii,Pet,,Traded,1,0,1
+CARNIVORA,Bassariscus astutus,Prod,,Traded,1,0,1
+RODENTIA,Berylmys bowersi,"Pet, Prod",,Traded,1,1,0
+CETARTIODACTYLA,Bison bison,"Pet, Prod",,Traded,9,6,3
+CETARTIODACTYLA,Bison bonasus,Prod,,Traded,3,2,1
+CETARTIODACTYLA,Blastocerus dichotomus,"Pet, Prod",,Traded,1,0,1
+CETARTIODACTYLA,Bos gaurus,"Pet, Prod",,Traded,3,2,1
+CETARTIODACTYLA,Bos mutus,"Pet, Prod",,Traded,4,3,1
+PRIMATES,Brachyteles arachnoides,"Pet, Prod",,Traded,1,1,0
+PILOSA,Bradypus variegatus,"Pet, Prod",,Traded,5,0,5
+CETARTIODACTYLA,Bubalus arnee,"Pet, Prod",,Traded,5,1,4
+CARNIVORA,Callicebus nigrifrons,prod,,Traded,1,1,0
+PRIMATES,Callimico goeldii,"Pet, Prod",Y,Traded,2,0,2
+PRIMATES,Callithrix geoffroyi,"Pet, Prod",Y,Traded,3,1,2
+PRIMATES,Callithrix jacchus,"Pet, Prod",Y,Traded,10,5,5
+PRIMATES,Callithrix penicillata,"Pet, Prod",Y,Traded,2,1,1
+CETARTIODACTYLA,Camelus ferus,Prod,,Traded,1,0,1
+CARNIVORA,Canis adustus,Prod,,Traded,3,2,1
+CARNIVORA,Canis aureus,"Pet, Prod",,Traded,2,1,1
+CARNIVORA,Canis latrans,Prod,,Traded,9,4,5
+CARNIVORA,Canis lupus,"Pet, Prod",Y,Traded,9,4,5
+CARNIVORA,Canis mesomelas,Prod,,Traded,5,3,2
+CETARTIODACTYLA,Capra aegagrus,Prod,,Traded,23,2,21
+CETARTIODACTYLA,Capra caucasica,Prod,,Traded,1,0,1
+CETARTIODACTYLA,Capra cylindricornis,Prod,,Traded,1,0,1
+CETARTIODACTYLA,Capra ibex,Prod,,Traded,7,6,1
+CETARTIODACTYLA,Capra pyrenaica,Prod,,Traded,2,2,0
+CETARTIODACTYLA,Capreolus capreolus,Prod,,Traded,14,8,6
+CETARTIODACTYLA,Capricornis crispus,Prod,,Traded,2,1,1
+Carnivora,Caracal caracal,"Pet, Prod",Y,Traded,3,3,0
+RODENTIA,Castor canadensis,Prod,,Traded,2,0,2
+RODENTIA,Castor fiber,Prod,,Traded,1,0,1
+CARNIVORA,Catopuma temminckii,"Pet, Prod",,Traded,1,0,1
+PRIMATES,Cebuella pygmaea,"Pet, Prod",,Traded,1,0,1
+PRIMATES,Cebus capucinus,"pet, Prod",Y,Traded,2,1,1
+CETARTIODACTYLA,Cephalophus callipygus,Prod,,Traded,3,2,1
+CETARTIODACTYLA,Cephalophus dorsalis,"Pet, Prod",,Traded,3,2,1
+CETARTIODACTYLA,Cephalophus leucogaster,Prod,,Traded,3,2,1
+CETARTIODACTYLA,Cephalophus nigrifrons,Prod,,Traded,2,2,0
+CETARTIODACTYLA,Cephalophus weynsi,Prod,,Traded,2,2,0
+PERISSODACTYLA,Ceratotherium simum,"Pet, Prod",,Traded,5,3,2
+PRIMATES,Cercocebus agilis,"Pet, Prod",Y,Traded,6,4,2
+PRIMATES,Cercocebus atys,"Pet, Prod",,Traded,4,2,2
+CHIROPTERA,Cercocebus chrysogaster,"Pet, Prod",,Traded,3,2,1
+CHIROPTERA,Cercocebus galeritus,"Pet, Prod",,Traded,2,2,0
+RODENTIA,Cercocebus sanjei,Prod,,Traded,1,1,0
+PRIMATES,Cercocebus torquatus,"Pet, Prod",Y,Traded,2,1,1
+PRIMATES,Cercopithecus ascanius,"Pet, Prod",Y,Traded,50,35,15
+PRIMATES,Cercopithecus campbelli,"Pet, Prod",,Traded,2,1,1
+PRIMATES,Cercopithecus cephus,"Pet, Prod",,Traded,9,8,1
+Primates,Cercopithecus denti,Prod,,Traded,1,0,1
+PRIMATES,Cercopithecus diana,"Pet, Prod",Y,Traded,3,2,1
+PRIMATES,Cercopithecus erythrotis,Prod,,Traded,3,2,1
+PRIMATES,Cercopithecus hamlyni,"Pet, Prod",,Traded,1,1,0
+RODENTIA,Cercopithecus lhoesti,Prod,Y,Traded,3,2,1
+PRIMATES,Cercopithecus mitis,"Pet, Prod",Y,Traded,9,7,2
+PRIMATES,Cercopithecus mona,"Pet, Prod",Y,Traded,11,4,7
+PRIMATES,Cercopithecus neglectus,"Pet, Prod",Y,Traded,13,10,3
+PRIMATES,Cercopithecus nictitans,"Pet, Prod",Y,Traded,24,21,3
+PRIMATES,Cercopithecus petaurista,"Pet, Prod",Y,Traded,1,0,1
+PRIMATES,Cercopithecus pogonias,"pet, Prod",Y,Traded,4,2,2
+PRIMATES,Cercopithecus sclateri,"pet, prod",,Traded,1,1,0
+Carnivora,Cerdocyon thous,"Pet, Prod",,Traded,1,0,1
+CHIROPTERA,Chaerephon pumilus,Prod,,Traded,43,42,1
+DIDELPHIMORPHIA,Chironectes minimus,Prod,,Traded,1,0,1
+RODENTIA,Chiropotes chiropotes,"Pet, Prod",,Traded,1,1,0
+PRIMATES,Chlorocebus aethiops,"Pet, Prod",Y,Traded,18,9,9
+PRIMATES,Chlorocebus pygerythrus,"Pet, Prod",Y,Traded,85,82,3
+PRIMATES,Chlorocebus sabaeus,"Pet, Prod",Y,Traded,6,4,2
+PRIMATES,Chlorocebus tantalus,Pet,Y,Traded,6,6,0
+CETARTIODACTYLA,Choeropsis liberiensis,"Pet, Prod",,Traded,1,0,1
+CARNIVORA,Chrotogale owstoni,Prod,,Traded,1,0,1
+CARNIVORA,Chrysocyon brachyurus,"Pet, Prod",,Traded,1,0,1
+Carnivora,Civettictis civetta,"Pet, Prod",Y,Traded,6,0,6
+RODENTIA,Coendou prehensilis,Prod,,Traded,1,0,1
+PRIMATES,Colobus angolensis,"Pet, Prod",,Traded,5,5,0
+PRIMATES,Colobus guereza,"Pet, Prod",Y,Traded,7,3,4
+PRIMATES,Colobus polykomos,"Pet, Prod",,Traded,1,0,1
+CETARTIODACTYLA,Connochaetes gnou,Prod,,Traded,2,1,1
+CETARTIODACTYLA,Connochaetes taurinus,Prod,,Traded,12,7,5
+RODENTIA,Cricetomys emini,Prod,,Traded,2,1,1
+RODENTIA,Cricetus cricetus,Prod,,Traded,2,1,1
+CARNIVORA,Crocuta crocuta,Prod,,Traded,6,4,2
+CARNIVORA,Cryptoprocta ferox,"Pet, Prod",Y,Traded,1,0,1
+RODENTIA,Cuniculus paca,"Pet, Prod",Y,Traded,1,0,1
+CHIROPTERA,Cynopterus sphinx,Prod,,Traded,23,18,5
+CETARTIODACTYLA,Damaliscus lunatus,"Pet, Prod",,Traded,4,3,1
+CETARTIODACTYLA,Damaliscus pygargus,"Pet, Prod",,Traded,1,0,1
+CINGULATA,Dasypus novemcinctus,Prod,,Traded,5,0,5
+PERISSODACTYLA,Diceros bicornis,"Pet, Prod",Y,Traded,5,3,2
+DIDELPHIMORPHIA,Didelphis marsupialis,Prod,,Traded,11,0,11
+DIDELPHIMORPHIA,Didelphis virginiana,Prod,,Traded,4,0,4
+CHIROPTERA,Dobsonia exoleta,NA,,Traded,1,1,0
+RODENTIA,Dolichotis patagonum,Prod,,Traded,1,0,1
+RODENTIA,Dremomys rufigenis,"Pet, Prod",,Traded,1,1,0
+CHIROPTERA,Eidolon dupreanum,Prod,,Traded,2,0,2
+CHIROPTERA,Eidolon helvum,Prod,,Traded,438,430,8
+CARNIVORA,Eira barbara,"Pet, Prod",Y,Traded,1,0,1
+CHIROPTERA,Eonycteris spelaea,Prod,,Traded,27,23,4
+CHIROPTERA,Epomophorus labiatus,prod,,Traded,3,2,1
+CHIROPTERA,Epomops buettikoferi,Prod,,Traded,2,2,0
+CHIROPTERA,Epomops franqueti,Prod,,Traded,48,43,5
+PERISSODACTYLA,Equus grevyi,"Pet, Prod",Y,Traded,1,0,1
+PERISSODACTYLA,Equus hemionus,"Pet, Prod",,Traded,1,1,0
+PERISSODACTYLA,Equus quagga,Prod,,Traded,9,6,3
+PERISSODACTYLA,Equus zebra,"Pet, Prod",,Traded,1,0,1
+RODENTIA,Erethizon dorsatum,Prod,,Traded,3,0,3
+PRIMATES,Erythrocebus patas,"Pet, Prod",Y,Traded,12,6,6
+CETARTIODACTYLA,Eudorcas thomsonii,Prod,,Traded,8,5,3
+PRIMATES,Eulemur albifrons,"Pet, Prod",,Traded,2,1,1
+RODENTIA,Eulemur fulvus,"Pet, Prod",,Traded,1,1,0
+PRIMATES,Eulemur macaco,"Pet, Prod",,Traded,2,1,1
+RODENTIA,Eulemur rufus,Prod,,Traded,1,1,0
+Primates,Euoticus elegantulus,Pet,,Traded,1,0,1
+Carnivora,Felis margarita,"Pet, Prod",Y,Traded,1,0,1
+CARNIVORA,Felis nigripes,"Pet, prod",,Traded,1,0,1
+CARNIVORA,Felis silvestris,"Pet, Prod",Y,Traded,7,6,1
+RODENTIA,Funambulus pennantii,Prod,,Traded,1,0,1
+RODENTIA,Funisciurus anerythrus,Prod,,Traded,1,0,1
+PRIMATES,Galago senegalensis,"Pet, Prod",Y,Traded,1,0,1
+CARNIVORA,Galictis cuja,"Pet, Prod",,Traded,1,0,1
+CETARTIODACTYLA,Gazella dorcas,"Pet, Prod",Y,Traded,2,1,1
+CETARTIODACTYLA,Gazella gazella,Prod,,Traded,3,2,1
+CETARTIODACTYLA,Gazella spekei,Prod,,Traded,1,0,1
+CETARTIODACTYLA,Gazella subgutturosa,Prod,,Traded,4,2,2
+CARNIVORA,Genetta genetta,Prod,,Traded,2,0,2
+CARNIVORA,Genetta maculata,Prod,,Traded,2,2,0
+CETARTIODACTYLA,Giraffa camelopardalis,Prod,,Traded,7,4,3
+RODENTIA,Glis glis,Prod,,Traded,1,0,1
+RODENTIA,Golunda ellioti,Prod,,Traded,1,0,1
+CHIROPTERA,Gorilla beringei,Prod,,Traded,5,0,5
+PRIMATE,Gorilla beringei beringei,"Pet, Prod",,Traded,46,46,0
+PRIMATE,Gorilla beringei graueri,"Pet, Prod",,Traded,12,12,0
+PRIMATES,Gorilla gorilla,"Pet, Prod",,Traded,16,7,9
+PRIMATE,Gorilla gorilla gorilla,"Pet, Prod",,Traded,3,3,0
+Carnivora,Gulo gulo,Prod,,Traded,2,0,2
+RODENTIA,Heliosciurus gambianus,"Pet, Prod",,Traded,1,1,0
+RODENTIA,Heliosciurus rufobrachium,"Pet, Prod",,Traded,1,0,1
+CARNIVORA,Herpailurus yagouaroundi,"Pet, Prod",,Traded,1,0,1
+CARNIVORA,Herpestes javanicus,"Pet, Prod",,Traded,2,0,2
+CARNIVORA,Herpestes sanguineus,Prod,,Traded,1,0,1
+CETARTIODACTYLA,Hippopotamus amphibius,"Pet, Prod",Y,Traded,1,0,1
+CHIROPTERA,Hipposideros armiger,Prod,,Traded,17,15,2
+CHIROPTERA,Hipposideros commersoni,prod,,Traded,6,6,0
+CHIROPTERA,Hipposideros gigas,Prod,,Traded,58,57,1
+CHIROPTERA,Hipposideros lankadiva,Prod,,Traded,1,0,1
+CHIROPTERA,Hipposideros larvatus,Prod,,Traded,36,35,1
+CHIROPTERA,Hipposideros lekaguli,Prod,,Traded,36,36,0
+CHIROPTERA,Hipposideros pomona,Prod,,Traded,8,6,2
+CHIROPTERA,Hipposideros ruber,prod,,Traded,88,87,1
+CHIROPTERA,Hipposideros speoris,Prod,,Traded,2,0,2
+CHIROPTERA,Hipposideros vittatus,prod,,Traded,1,1,0
+CETARTIODACTYLA,Hippotragus equinus,"Pet, Prod",,Traded,3,2,1
+CETARTIODACTYLA,Hippotragus niger,"Pet, Prod",,Traded,5,2,3
+PRIMATES,Hylobates lar,"Pet, Prod",,Traded,3,1,2
+PRIMATES,Hylobates moloch,"Pet, Prod",,Traded,1,0,1
+PRIMATES,Hylobates pileatus,"Pet, Prod",,Traded,4,2,2
+CHIROPTERA,Hypsignathus monstrosus,Prod,,Traded,7,3,4
+RODENTIA,Hystrix africaeaustralis,Prod,,Traded,1,0,1
+RODENTIA,Hystrix brachyura,"Pet, Prod",,Traded,36,36,0
+CHIROPTERA,Indri indri,Prod,,Traded,1,1,0
+PERAMELEMORPHIA,Isoodon macrourus,Prod,,Traded,1,1,0
+CETARTIODACTYLA,Kobus ellipsiprymnus,Prod,,Traded,10,6,4
+CETARTIODACTYLA,Kobus megaceros,Prod,,Traded,1,1,0
+PRIMATES,Lagothrix lagotricha,"Pet, Prod",,Traded,2,1,1
+PRIMATES,Lemur catta,"Pet, Prod",Y,Traded,3,1,2
+PRIMATES,Leontocebus fuscicollis,"Pet, Prod",Y,Traded,1,0,1
+PRIMATES,Leontocebus nigricollis,Pet,,Traded,2,1,1
+PRIMATES,Leontopithecus chrysomelas,"Pet, Prod",Y,Traded,2,0,2
+PRIMATES,Leontopithecus rosalia,"Pet, Prod",Y,Traded,1,0,1
+CARNIVORA,Leopardus geoffroyi,"Pet, Prod",Y,Traded,3,2,1
+CARNIVORA,Leopardus pardalis,"Pet, Prod",Y,Traded,2,1,1
+Carnivora,Leopardus tigrinus,"Pet, Prod",,Traded,2,0,2
+RODENTIA,Leopoldamys sabanus,"Pet, Prod",,Traded,5,5,0
+LAGOMORPHA,Lepus americanus,Prod,,Traded,4,0,4
+LAGOMORPHA,Lepus californicus,Prod,,Traded,8,3,5
+LAGOMORPHA,Lepus capensis,Prod,,Traded,2,1,1
+LAGOMORPHA,Lepus europaeus,Prod,,Traded,4,2,2
+LAGOMORPHA,Lepus saxatilis,Prod,,Traded,1,0,1
+LAGOMORPHA,Lepus timidus,Prod,,Traded,3,1,2
+LAGOMORPHA,Lepus tolai,Prod,,Traded,1,0,1
+CARNIVORA,Lontra canadensis,"Pet, Prod",Y,Traded,6,4,2
+PRIMATES,Lophocebus albigena,"Pet, Prod",Y,Traded,9,5,4
+PRIMATES,Lophocebus aterrimus,"Pet, Prod",Y,Traded,14,14,0
+PROBOSCIDEA,Loxodonta africana,"Pet, Prod",Y,Traded,7,2,5
+CARNIVORA,Lutra lutra,"Pet, Prod",Y,Traded,1,0,1
+CARNIVORA,Lycaon pictus,Prod,,Traded,5,2,3
+Carnivora,Lynx canadensis,"Pet, Prod",Y,Traded,6,0,6
+CARNIVORA,Lynx lynx,"Pet, Prod",Y,Traded,2,0,2
+CARNIVORA,Lynx pardinus,"Pet, Prod",,Traded,1,1,0
+CARNIVORA,Lynx rufus,"Pet, Prod",Y,Traded,4,1,3
+PRIMATES,Macaca arctoides,"Pet, Prod",Y,Traded,4,1,3
+PRIMATES,Macaca cyclopis,"Pet, Prod",,Traded,4,1,3
+PRIMATES,Macaca fascicularis,"Pet, Prod",Y,Traded,111,92,19
+PRIMATES,Macaca fuscata,"Pet, Prod",Y,Traded,9,0,9
+PRIMATES,Macaca leonina,"Pet, Prod",Y,Traded,13,11,2
+PRIMATES,Macaca maura,"Pet, Prod",,Traded,1,0,1
+PRIMATES,Macaca mulatta,"Pet, Prod",Y,Traded,605,586,19
+PRIMATES,Macaca nemestrina,"Pet, Prod",Y,Traded,22,15,7
+PRIMATES,Macaca nigra,"Pet, Prod",,Traded,4,2,2
+Primates,Macaca nigrescens,Prod,,Traded,1,0,1
+PRIMATES,Macaca ochreata,Prod,,Traded,1,0,1
+PRIMATES,Macaca radiata,"Pet, Prod",Y,Traded,7,1,6
+PRIMATES,Macaca silenus,"Pet, Prod",,Traded,2,1,1
+PRIMATES,Macaca sinica,"Pet, Prod",,Traded,4,1,3
+PRIMATES,Macaca sylvanus,"Pet, Prod",Y,Traded,6,1,5
+PRIMATES,Macaca tonkeana,"Pet, Prod",,Traded,1,0,1
+DIPROTODONTIA,Macropus agilis,Prod,,Traded,6,1,5
+DIPROTODONTIA,Macropus parryi,"Pet, Prod",,Traded,1,0,1
+PRIMATES,Mandrillus leucophaeus,"Pet, Prod",,Traded,7,4,3
+PRIMATES,Mandrillus sphinx,"Pet, Prod",Y,Traded,10,4,6
+PHOLIDOTA,Manis javanica,Prod,,Traded,1,0,1
+PHOLIDOTA,Manis pentadactyla,Prod,Y,Traded,1,-1,2
+CARNIVORA,Martes foina,Prod,,Traded,3,0,3
+Carnivora,Martes martes,Prod,,Traded,3,0,3
+CARNIVORA,Martes pennanti,Prod,,Traded,3,2,1
+CETARTIODACTYLA,Mazama gouazoubira,Prod,,Traded,2,1,1
+CHIROPTERA,Megaderma lyra,Prod,,Traded,14,13,1
+CHIROPTERA,Megaderma spasma,Prod,,Traded,2,1,1
+CARNIVORA,Meles meles,Prod,,Traded,3,1,2
+CARNIVORA,Mellivora capensis,"Pet, Prod",Y,Traded,1,0,1
+CARNIVORA,Melogale moschata,Prod,,Traded,1,0,1
+Carnivora,Mephitis macroura,Prod,,Traded,1,0,1
+CARNIVORA,Mephitis mephitis,Prod,,Traded,6,0,6
+RODENTIA,Meriones hurrianae,Prod,,Traded,7,3,4
+Primates,Mico argentatus,"Pet, Prod",Y,Traded,3,0,3
+PRIMATES,Mico leucippe,"Pet, Prod",,Traded,2,0,2
+PRIMATES,Microcebus berthae,Prod,,Traded,1,1,0
+PRIMATES,Microcebus griseorufus,Prod,,Traded,1,1,0
+PRIMATES,Microcebus murinus,"Pet, Prod",Y,Traded,1,1,0
+PRIMATES,Microcebus myoxinus,Prod,,Traded,1,1,0
+PRIMATES,Microcebus ravelobensis,Prod,,Traded,1,1,0
+PRIMATES,Microcebus rufus,Pet,Y,Traded,1,1,0
+PRIMATES,Microcebus sambiranensis,Prod,,Traded,1,1,0
+CHIROPTERA,Microcebus tavaratra,Prod,,Traded,1,1,0
+CHIROPTERA,Micropteropus pusillus,Prod,,Traded,62,59,3
+PRIMATES,Miopithecus ogouensis,Prod,,Traded,2,2,0
+PRIMATES,Miopithecus talapoin,"Pet, Prod",Y,Traded,3,2,1
+PRIMATES,Mirza coquereli,"Pet, Prod",,Traded,1,1,0
+CHIROPTERA,Mops midas,"Pet, Prod",,Traded,8,8,0
+CARNIVORA,Mungos mungo,Prod,,Traded,2,0,2
+CETARTIODACTYLA,Muntiacus muntjak,Prod,,Traded,1,0,1
+Carnivora,Mustela erminea,"Pet, Prod",,Traded,7,0,7
+CARNIVORA,Mustela frenata,Prod,,Traded,1,0,1
+CARNIVORA,Mustela lutreola,"Pet, Prod",,Traded,2,0,2
+CARNIVORA,Mustela nigripes,"Pet, Prod",,Traded,1,1,0
+CARNIVORA,Mustela nivalis,Prod,,Traded,1,0,1
+CARNIVORA,Mustela putorius,Prod,,Traded,1,0,1
+CARNIVORA,Mustela sibirica,Prod,,Traded,2,2,0
+CHIROPTERA,Myotis mystacinus,Prod,,Traded,4,2,2
+CHIROPTERA,Myotis nattereri,Prod,,Traded,8,6,2
+PILOSA,Myrmecophaga tridactyla,"Pet, Prod",Y,Traded,2,0,2
+CARNIVORA,Nandinia binotata,"Pet, Prod",,Traded,1,1,0
+CETARTIODACTYLA,Nanger granti,Prod,,Traded,4,2,2
+PRIMATES,Nasalis larvatus,"Pet, Prod",,Traded,14,14,0
+CARNIVORA,Nasua narica,"Pet, Prod",Y,Traded,1,0,1
+CARNIVORA,Nasua nasua,"Pet, Prod",Y,Traded,1,0,1
+CARNIVORA,Neofelis nebulosa,"Pet, Prod",Y,Traded,1,0,1
+RODENTIA,Niviventer eha,"Pet, Prod",,Traded,6,6,0
+PRIMATES,Nomascus leucogenys,Prod,,Traded,1,0,1
+CARNIVORA,Nyctereutes procyonoides,Prod,,Traded,5,1,4
+PRIMATES,Nycticebus bengalensis,Prod,,Traded,1,1,0
+PRIMATES,Nycticebus coucang,"Pet, Prod",Y,Traded,1,1,0
+PRIMATES,Nycticebus pygmaeus,Prod,,Traded,5,5,0
+CHIROPTERA,Nyctimene cephalotes,Prod,,Traded,1,1,0
+CETARTIODACTYLA,Odocoileus hemionus,Prod,,Traded,10,6,4
+CETARTIODACTYLA,Odocoileus virginianus,"Pet, Prod",,Traded,15,7,8
+CETARTIODACTYLA,Okapia johnstoni,Prod,,Traded,1,0,1
+CETARTIODACTYLA,Oreamnos americanus,Prod,,Traded,4,4,0
+CETARTIODACTYLA,Oryx gazella,Prod,,Traded,5,3,2
+CETARTIODACTYLA,Oryx leucoryx,"Pet, Prod",Y,Traded,8,7,1
+CARNIVORA,Otocolobus manul,"Pet, Prod",,Traded,1,0,1
+CARNIVORA,Otocyon megalotis,Prod,,Traded,2,1,1
+PRIMATES,Otolemur crassicaudatus,"Pet, Prod",,Traded,1,0,1
+CETARTIODACTYLA,Ourebia ourebi,Prod,,Traded,1,1,0
+CETARTIODACTYLA,Ovibos moschatus,Prod,,Traded,3,2,1
+CETARTIODACTYLA,Ovis ammon,"Pet, Prod",Y,Traded,2,1,1
+CETARTIODACTYLA,Ovis canadensis,"Pet, Prod",,Traded,6,5,1
+CETARTIODACTYLA,Ovis dalli,Prod,,Traded,3,1,2
+CETARTIODACTYLA,Ovis orientalis,"Pet, Prod",,Traded,4,3,1
+CETARTIODACTYLA,Ozotoceros bezoarticus,"Pet, Prod",,Traded,1,1,0
+CARNIVORA,Paguma larvata,"Pet, Prod",,Traded,2,0,2
+PRIMATES,Pan paniscus,"Pet, Prod",,Traded,7,0,7
+PRIMATES,Pan troglodytes,"Pet, Prod",Y,Traded,55,33,22
+CARNIVORA,Panthera leo,"Pet, Prod",Y,Traded,13,5,8
+CARNIVORA,Panthera onca,"Pet, Prod",Y,Traded,1,1,0
+CARNIVORA,Panthera pardus,"Pet, Prod",Y,Traded,4,1,3
+CARNIVORA,Panthera tigris,"Pet, Prod",Y,Traded,1,0,1
+PRIMATES,Papio anubis,"Pet, Prod",Y,Traded,19,12,7
+PRIMATES,Papio cynocephalus,"Pet, Prod",Y,Traded,18,11,7
+PRIMATES,Papio hamadryas,"Pet, Prod",Y,Traded,9,5,4
+PRIMATES,Papio papio,"Pet, Prod",Y,Traded,4,1,3
+PRIMATES,Papio ursinus,"Pet, Prod",Y,Traded,12,5,7
+CARNIVORA,Paradoxurus hermaphroditus,"Pet, Prod",Y,Traded,2,1,1
+CETARTIODACTYLA,Pecari tajacu,"Pet, Prod",,Traded,1,0,1
+RODENTIA,Pedetes capensis,Prod,,Traded,1,0,1
+CETARTIODACTYLA,Phacochoerus aethiopicus,Prod,,Traded,3,0,3
+CETARTIODACTYLA,Phacochoerus africanus,Prod,,Traded,1,1,0
+CETARTIODACTYLA,Philantomba monticola,"Pet, Prod",Y,Traded,4,3,1
+Primates,Piliocolobus tephrosceles,Prod,,Traded,6,0,6
+PRIMATE,Piliocolobus tholloni,Prod,,Traded,13,13,0
+PRIMATES,Pithecia pithecia,"Pet, Prod",Y,Traded,3,1,2
+CHIROPTERA,Platyrrhinus lineatus,"Pet, Prod",Y,Traded,1,0,1
+PRIMATES,Pongo abelii,"Pet, Prod",,Traded,5,0,5
+PRIMATES,Pongo pygmaeus,"Pet, Prod",Y,Traded,28,12,16
+CETARTIODACTYLA,Potamochoerus porcus,Prod,,Traded,3,2,1
+CARNIVORA,Potos flavus,"Pet, Prod",Y,Traded,2,0,2
+PRIMATES,Presbytis melalophos,"Pet, Prod",,Traded,2,1,1
+CARNIVORA,Prionailurus bengalensis,"Pet, Prod",Y,Traded,3,2,1
+CARNIVORA,Prionailurus viverrinus,"Pet, Prod",Y,Traded,1,0,1
+CETARTIODACTYLA,Procapra gutturosa,Prod,,Traded,1,0,1
+Primates,Procolobus badius,"Pet, Prod",,Traded,3,1,2
+PRIMATES,Procolobus verus,Prod,,Traded,1,1,0
+Carnivora,Procyon cancrivorus,"Pet, Prod",,Traded,1,0,1
+CARNIVORA,Procyon lotor,Prod,,Traded,12,1,11
+Carnivora,Procyon pygmaeus,"Pet, Prod",,Traded,3,0,3
+CARNIVORA,Proteles cristata,"Pet, Prod",,Traded,1,0,1
+Carnivora,Pseudalopex culpaeus,Prod,,Traded,1,0,1
+Carnivora,Pseudalopex griseus,"Pet, Prod",,Traded,3,0,3
+Carnivora,Pseudalopex gymnocercus,"Pet, Prod",,Traded,1,0,1
+CETARTIODACTYLA,Pseudois nayaur,Prod,,Traded,1,1,0
+CHIROPTERA,Pteropus admiralitatum,Prod,,Traded,2,0,2
+CHIROPTERA,Pteropus alecto,Prod,,Traded,33,22,11
+CHIROPTERA,Pteropus capistratus,Prod,,Traded,2,0,2
+CHIROPTERA,Pteropus conspicillatus,Prod,,Traded,4,0,4
+CHIROPTERA,Pteropus dasymallus,prod,,Traded,2,2,0
+CHIROPTERA,Pteropus giganteus,"Pet, Prod",,Traded,217,216,1
+CHIROPTERA,Pteropus hypomelanus,Prod,,Traded,5,1,4
+CHIROPTERA,Pteropus lylei,"Pet, Prod",,Traded,72,68,4
+CHIROPTERA,Pteropus neohibernicus,Prod,,Traded,2,0,2
+CHIROPTERA,Pteropus poliocephalus,Prod,,Traded,6,1,5
+CHIROPTERA,Pteropus rufus,"Pet, Prod",,Traded,3,0,3
+CHIROPTERA,Pteropus scapulatus,"Pet, Prod",,Traded,11,1,10
+CHIROPTERA,Pteropus vampyrus,"Pet, Prod",Y,Traded,3,1,2
+CETARTIODACTYLA,Pudu puda,"Pet, Prod",,Traded,2,1,1
+CARNIVORA,Puma concolor,"Pet, Prod",Y,Traded,10,7,3
+PRIMATES,Pygathrix nemaeus,"Pet, Prod",,Traded,1,0,1
+PRIMATES,Pygathrix nigripes,"Pet, Prod",,Traded,1,1,0
+CETARTIODACTYLA,Raphicerus melanotis,Prod,,Traded,1,0,1
+CETARTIODACTYLA,Raphicerus sharpei,Prod,,Traded,1,0,1
+RODENTIA,Ratufa bicolor,"Pet, Prod",,Traded,1,1,0
+CETARTIODACTYLA,Redunca arundinum,Prod,,Traded,6,4,2
+CETARTIODACTYLA,Redunca fulvorufula,Prod,,Traded,2,1,1
+CHIROPTERA,Rhinolophus alcyone,prod,,Traded,9,8,1
+CHIROPTERA,Rhinolophus creaghi,Prod,,Traded,22,0,22
+CHIROPTERA,Rhinolophus luctus,Prod,,Traded,1,0,1
+RODENTIA,Rhizomys pruinosus,Prod,,Traded,7,7,0
+RODENTIA,Rhizomys sinensis,NA,,Traded,2,2,0
+CHIROPTERA,Rousettus aegyptiacus,Prod,,Traded,247,239,8
+CHIROPTERA,Rousettus amplexicaudatus,Prod,,Traded,14,11,3
+CHIROPTERA,Rousettus leschenaultii,Prod,,Traded,33,21,12
+CHIROPTERA,Rousettus madagascariensis,Prod,,Traded,1,0,1
+CETARTIODACTYLA,Rupicapra pyrenaica,"Pet, Prod",,Traded,4,4,0
+CETARTIODACTYLA,Rupicapra rupicapra,Prod,,Traded,7,5,2
+CETARTIODACTYLA,Rusa unicolor,Prod,,Traded,1,0,1
+PRIMATES,Saguinus geoffroyi,"Pet, Prod",Y,Traded,2,1,1
+PRIMATES,Saguinus imperator,"Pet, Prod",Y,Traded,1,1,0
+PRIMATES,Saguinus labiatus,"Pet, Prod",Y,Traded,4,2,2
+PRIMATES,Saguinus midas,"Pet, Prod",Y,Traded,6,3,3
+PRIMATES,Saguinus mystax,"Pet, Prod",Y,Traded,2,2,0
+PRIMATES,Saguinus oedipus,"Pet, Prod",Y,Traded,3,1,2
+CETARTIODACTYLA,Saiga tatarica,"Pet, Prod",,Traded,1,0,1
+PRIMATES,Saimiri boliviensis,"Pet, Prod",Y,Traded,1,1,0
+Primates,Saimiri oerstedii,Prod,,Traded,1,0,1
+PRIMATES,Saimiri sciureus,"Pet, Prod",Y,Traded,8,3,5
+PRIMATES,Sapajus apella,"Pet, Prod",Y,Traded,8,3,5
+CARNIVORA,Sapajus xanthosternos,"Pet, Prod",Y,Traded,1,1,0
+RODENTIA,Sciurus carolinensis,Prod,,Traded,17,6,11
+RODENTIA,Sciurus vulgaris,"Pet, Prod",,Traded,5,2,3
+PRIMATES,Semnopithecus entellus,"Pet, Prod",,Traded,4,2,2
+RODENTIA,Spermophilopsis leptodactylus,Prod,,Traded,2,0,2
+RODENTIA,Spermophilus fulvus,Prod,,Traded,1,0,1
+Carnivora,Spilogale gracilis,Prod,,Traded,2,0,2
+RODENTIA,Sundamys muelleri,Prod,,Traded,7,7,0
+CARNIVORA,Suricata suricatta,Pet,,Traded,1,0,1
+CETARTIODACTYLA,Sus celebensis,Prod,,Traded,1,0,1
+CETARTIODACTYLA,Sus scrofa,Prod,Y,Traded,72,32,40
+CETARTIODACTYLA,Sylvicapra grimmia,Prod,,Traded,4,3,1
+LAGOMORPHA,Sylvilagus aquaticus,Prod,,Traded,1,0,1
+LAGOMORPHA,Sylvilagus audubonii,Prod,,Traded,5,1,4
+LAGOMORPHA,Sylvilagus floridanus,Prod,,Traded,5,2,3
+LAGOMORPHA,Sylvilagus nuttallii,Prod,,Traded,1,0,1
+CETARTIODACTYLA,Syncerus caffer,Prod,,Traded,10,5,5
+PILOSA,Tamandua tetradactyla,"Pet, Prod",,Traded,3,0,3
+CHIROPTERA,Taphozous theobaldi,Prod,,Traded,1,1,0
+PRIMATES,Tarsius bancanus,Prod,,Traded,2,2,0
+RODENTIA,Tatera indica,Prod,,Traded,9,3,6
+CARNIVORA,Taxidea taxus,Prod,,Traded,1,0,1
+PRIMATES,Theropithecus gelada,"Pet, Prod",,Traded,1,0,1
+RODENTIA,Thryonomys swinderianus,Prod,,Traded,3,2,1
+PRIMATES,Trachypithecus cristatus,"Pet, Prod",,Traded,2,0,2
+PRIMATES,Trachypithecus francoisi,"Pet, Prod",,Traded,2,0,2
+PRIMATES,Trachypithecus germaini,Prod,,Traded,1,1,0
+CETARTIODACTYLA,Tragelaphus angasii,Prod,,Traded,3,1,2
+CETARTIODACTYLA,Tragelaphus eurycerus,"Pet, Prod",,Traded,1,1,0
+CETARTIODACTYLA,Tragelaphus imberbis,Prod,,Traded,2,1,1
+CETARTIODACTYLA,Tragelaphus oryx,Prod,,Traded,7,5,2
+CETARTIODACTYLA,Tragelaphus scriptus,Prod,,Traded,2,1,1
+CETARTIODACTYLA,Tragelaphus strepsiceros,Prod,,Traded,8,4,4
+CETARTIODACTYLA,Tragulus javanicus,"Pet, Prod",,Traded,1,1,0
+SCANDENTIA,Tupaia belangeri,Pet,Y,Traded,4,3,1
+SCANDENTIA,Tupaia glis,"Pet, Prod",,Traded,12,12,0
+SCANDENTIA,Tupaia tana,NA,,Traded,6,6,0
+RODENTIA,Urocitellus parryii,pet,,Traded,1,1,0
+RODENTIA,Urocitellus undulatus,pet,,Traded,1,0,1
+CARNIVORA,Urocyon cinereoargenteus,"Pet, Prod",,Traded,6,0,6
+CARNIVORA,Ursus americanus,"Pet, Prod",Y,Traded,5,3,2
+CARNIVORA,Ursus arctos,"Pet, Prod",Y,Traded,2,0,2
+CARNIVORA,Ursus maritimus,"Pet, Prod",Y,Traded,4,2,2
+CARNIVORA,Ursus thibetanus,Prod,,Traded,1,1,0
+PRIMATES,Varecia rubra,"Pet, Prod",Y,Traded,2,1,1
+PRIMATES,Varecia variegata,"Pet, Prod",Y,Traded,2,1,1
+Carnivora,Vulpes chama,Prod,,Traded,1,0,1
+CARNIVORA,Vulpes corsac,Prod,,Traded,1,0,1
+CARNIVORA,Vulpes macrotis,"Pet, Prod",,Traded,2,0,2
+CARNIVORA,Vulpes velox,Prod,,Traded,10,2,8
+CARNIVORA,Vulpes vulpes,Prod,,Traded,15,4,11
+RODENTIA,Xerus erythropus,Prod,,Traded,2,1,1
