@@ -80,6 +80,7 @@ logdf %>%
     x = "Citations", y = "ZooDiv", color = " ",
     size = 2, alpha = 0.2,
     palette = c("#00AFBB", "#FC4E07"),
+    margin.plot = "boxplot",
     margin.params = list(fill = " ", color = "black", size = 0.2),
     ylab = "Number of zoonotic viruses"
   ) -> g 

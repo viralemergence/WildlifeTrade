@@ -16,7 +16,9 @@ trade %<>% mutate(Host = str_to_lower(Host))
 vir %<>% filter(ICTVRatified==TRUE,
                HostNCBIResolved==TRUE,
                VirusNCBIResolved==TRUE,
-               HostClass=="mammalia")
+               HostClass=="mammalia",
+               !is.na(Host),
+               !is.na(Virus))
 
 vir %>% filter(Host == "homo sapiens") %>%
   select(Virus) %>% distinct() %>% pull(Virus) -> zoonoses
@@ -32,41 +34,12 @@ vir %>%
   left_join(trade) %>%
   mutate(Category = replace_na(Category, "PresumedNontraded")) -> df
 
-df %>% 
-  ggplot(aes(y = Category, x = VirDiv, fill = Category)) + 
-  geom_density_ridges() + 
-  scale_x_continuous(trans = "log10") + 
-  xlab("Total Viral Diversity") + 
-  theme(legend.position = "none") 
-
-df %>% 
-  ggplot(aes(y = Category, x = ZooDiv + 1, fill = Category)) + 
-  geom_density_ridges() + 
-  scale_x_continuous(trans = "log10") + 
-  xlab("Zoonotic Viral Diversity (+1)") + 
-  theme(legend.position = "none") 
-
-glm(ZooRes ~ Category, data = df, family = "binomial") %>%
-  #anova() %>%
-  summary()
-
 # cites
 
 cites <- read_csv("~/Github/WildlifeTrade/Citation.csv")
 cites %<>% mutate(Host = str_to_lower(Host))
 
 df %<>% left_join(cites)  
-
-df %>% 
-  ggplot(aes(y = Category, x = Citations + 1, fill = Category)) + 
-  geom_density_ridges() + 
-  scale_x_continuous(trans = "log10") + 
-  xlab("Citations") + 
-  theme(legend.position = "none") 
-
-glm(Citations ~ Category, data = df) %>%
-  #anova() %>%
-  summary()
 
 # Simple path analysis
 
@@ -81,14 +54,9 @@ df %<>% left_join(order)
 logdf <- df  %>% mutate(Citations = log(Citations + 1),
                        VirDiv = log(VirDiv + 1),
                        ZooDiv = log(ZooDiv + 1))
-logdf %<>%  filter(!(Category == "PresumedNontraded")) %>%
+logdf %<>% filter(!(Category == "PresumedNontraded")) %>% # This step also inherently removes humans
             mutate(Domestic = as.numeric(Category == 'Domestic'),
-                 Traded = as.numeric(Category == 'Traded'),
-                 Rodentia = as.numeric(HostOrder == 'rodentia'),
-                 Chiroptera = as.numeric(HostOrder == 'chiroptera'),
-                 Artiodactyla = as.numeric(HostOrder == 'artiodactyla'),
-                 Primates = as.numeric(HostOrder == 'primates'),
-                 Carnivora = as.numeric(HostOrder == 'carnivora'))
+                 Traded = as.numeric(Category == 'Traded'))
 
 # How does the nonlinearity affect this?
 
@@ -105,6 +73,7 @@ logdf %>%
     x = "Citations", y = "ZooDiv", color = " ",
     size = 2, alpha = 0.2,
     palette = c("#00AFBB", "#FC4E07"),
+    margin.plot = "boxplot",
     margin.params = list(fill = " ", color = "black", size = 0.2),
     ylab = "Number of zoonotic viruses"
   ) -> g 

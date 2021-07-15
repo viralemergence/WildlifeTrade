@@ -10,11 +10,22 @@ library(tidyverse)
 trade <- read_csv("TradeMaster.csv")
 
 CiteCounter <- function(Name) {
-  Name %>% str_trim %>% 
-    get_pubmed_ids %>% 
-    extract2("Count") %>% 
-    as.character %>% 
-    as.numeric
+  Query <- Name %>% str_trim %>%
+    str_replace_all("_", " ") %>% 
+    paste0("\"", ., "\"") %>% 
+    get_pubmed_ids
+  Original <- Query$OriginalQuery
+  Translation <- Query$QueryTranslation
+  if(str_count(Original) == (str_count(Translation) - 12)){
+    Query %>% 
+      extract2("Count") %>% 
+      as.character %>% 
+      as.numeric %>% 
+      return
+  }else{
+    print(paste0(Name, ": Maybe failure?"))
+    return(0)
+  }
 }
 
 trade %<>% select(`Species Name`) %>%
@@ -29,8 +40,6 @@ for(i in i:nrow(trade)){
   Sp <- trade$Host[i]
   
   print(Sp)
-  
-  Sp <- paste(paste("\"", Sp, sep=''), "\"", sep='')
   
   trade$Citations[i] <- CiteCounter(Sp)
   
