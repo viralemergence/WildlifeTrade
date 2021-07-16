@@ -118,6 +118,28 @@ hp32 %>% filter(Zoonotic == 1) %>% group_by(Host, Category) %>%
               mutate(Host = str_replace_all(Host, " ", "_"))
               ) -> comparison.z
 
+
+####### Interlude: Some statistics we report in our analysis
+
+# The study and virus metadata report 226 known zoonoses; however, six viruses are present in the virus metadata but absent from the edgelist: 
+# two are zoonotic (Bangui virus and Lake Victoria marburgvirus, a redundancy with "Marburg Virus (MARV)") and four are non-zoonotic 
+# (Gossas virus, Kolente virus, Menekre virus, and Ntaya virus). These absences may also be connected to differences in the 75% statistic.	
+virus[!(str_to_lower(str_replace_all(virus$`Virus name`, " ", "_")) %in% hp32$Virus),]
+
+#  traded species actually account for 39% (421 of 1,076) of all hosts in the sample
+hp32 %>% select(Host, Category) %>% distinct() %>% count(Category)
+
+# only appear to host 68% (153 of 224) of zoonotic viruses
+hp32 %>% filter(Zoonotic == 1) %>% pull(Virus) %>% unique() %>% length()
+hp32 %>% filter(Zoonotic == 1, Category == "Traded") %>% pull(Virus) %>% unique() %>% length()
+153/224 
+
+# Including the "future traded" species - predictions of which species might be involved in future wildlife trade - raises this to 158 of 224 (70.5%).
+hp32 %>% filter(Zoonotic == 1, Category %in% c("Traded", "Future traded")) %>% pull(Virus) %>% unique() %>% length()
+158/224
+  
+####### 
+
 comparison.z %>% ggplot(aes(x = ZoonoticRaw, y = ZoonoticSummary)) + geom_point() + 
   geom_abline(slope = 1, intercept = 0)
 
