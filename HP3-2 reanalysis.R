@@ -86,14 +86,14 @@ comparison %>% filter(Difference > 0) %>% pull(Host) -> morehosts
 # Although traded species are not disproportionately common in that sample, 
 trade %>% filter(Host %in% morehosts) %>% count(Category)
 
-# Traded and future traded species had higher observed differences
+# Traded species had higher observed differences
 comparison %>% filter(Host %in% morehosts) %>% left_join(trade) %>%
   ggplot(aes(x = Category, y = Difference)) + geom_boxplot() + 
-  scale_y_continuous(trans='log10') # Oh that's not ideal
+  scale_y_continuous(trans='log10')
 
-# Though this was not statistically significant
-comparison %>% filter(Host %in% morehosts) %>% left_join(trade) -> glm.df
-glm(Difference ~ Category, data = glm.df) %>% summary()
+# on average, traded species have a higher resulting inflation of reported viral richness (mean: +30 virus spp.) than nontraded (+19 spp.) and domestic species (+6 spp.).
+comparison %>% filter(Host %in% morehosts) %>% left_join(trade) -> inflation.df
+inflation.df %>% group_by(Category) %>% summarize(Difference = mean(Difference))
 
 # What about zoonoses
 
@@ -151,10 +151,6 @@ comparison.z %>% filter(!(Difference == 0)) %>% arrange(-Difference)
 
 #  traded species tend to gain zoonotic viruses (+1: 15 spp.; +2: 1 sp.; +3: 1 sp.; -1: 1 sp.), and nontraded species tend to lose them (-1: 7 spp.; +1: 1 sp.).
 table(comparison.z$Category, comparison.z$Difference)
-
-# Though this was not statistically significant
-comparison %>% filter(Host %in% morehosts) %>% left_join(trade) -> glm.df
-glm(Difference ~ Category, data = glm.df) %>% summary()
 
 ################### OTHER DESCRIPTIVE WITH THE CLEAN DATA
 
